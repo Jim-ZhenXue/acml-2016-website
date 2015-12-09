@@ -196,12 +196,10 @@ THEME_COLOR = '#5670d4'
 #
 
 POSTS = (
-    ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.rst", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.md", "stories", "story.tmpl"),
     ("stories/*.rst", "stories", "story.tmpl"),
     ("stories/*.txt", "stories", "story.tmpl"),
 )
@@ -647,8 +645,9 @@ REDIRECTIONS = []
 # "OUTPUT_PATH/relative_destination/gallery_name"
 # Default is:
 # GALLERY_FOLDERS = {"galleries": "galleries"}
+GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
-# THUMBNAIL_SIZE = 180
+THUMBNAIL_SIZE = 180
 # MAX_IMAGE_SIZE = 1280
 # USE_FILENAME_AS_TITLE = True
 # EXTRA_IMAGE_EXTENSIONS = []
@@ -663,7 +662,7 @@ REDIRECTIONS = []
 # The format is a dictionary of {source: relative destination}.
 
 IMAGE_FOLDERS = {'images': 'images'}
-# IMAGE_THUMBNAIL_SIZE = 400
+IMAGE_THUMBNAIL_SIZE = 180
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
