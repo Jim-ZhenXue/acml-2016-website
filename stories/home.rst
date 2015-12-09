@@ -10,9 +10,9 @@
 The University of Waikato, Hamilton - November 16-18 2016
 ---------------------------------------------------------
 
-.. thumbnail:: ../../galleries/home/academy_of_performing_arts.png
-.. thumbnail:: ../../galleries/home/s-block.png
-.. thumbnail:: ../../galleries/home/lake.png
+.. thumbnail:: ../../galleries/uow/academy_of_performing_arts.png
+.. thumbnail:: ../../galleries/uow/s-block.png
+.. thumbnail:: ../../galleries/uow/lake.png
 
 
 Announcement

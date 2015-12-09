@@ -7,4 +7,11 @@
 .. description: 
 .. type: text
 
-Write your page here.
+University of Waikato campus
+
+.. slides::
+
+   /galleries/uow/academy_of_performing_arts.png
+   /galleries/uow/s-block.png
+   /galleries/uow/lake.png
+
