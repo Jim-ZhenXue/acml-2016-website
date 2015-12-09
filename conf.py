@@ -139,9 +139,25 @@ NAVIGATION_LINKS = {
           ("/", "Sponsors"),
           ("/", "Photos"),
           ), "Conference"),
-        ("/", "For Authors"),
-        ("/", "For Participants"),
-        ("/", "Misc"),
+        ((
+          ("/", "Call For Papers"),
+          ("/", "Paper Submission"),
+          ("/", "Camera Ready Instructions"),
+          ), "For Authors"),
+        ((
+          ("/", "Visa"),
+          ("/", "Registration"),
+          ("/", "Conference Venue"),
+          ("/", "Hotel Information"),
+          ("/", "Travel Information"),
+          ("/", "Call For Participation"),
+          ), "For Authors"),
+        ((
+          ("/", "Past Conferences"),
+          ("/", "Contact Information"),
+          ("/", "Sponsors"),
+          ("/", "About Hamilton"),
+          ), "Misc"),
     ),
 }
 
