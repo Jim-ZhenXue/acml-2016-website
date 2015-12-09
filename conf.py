@@ -128,35 +128,34 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/", "Home"),
+        ("/stories/home", "Home"),
         ((
-          ("/", "Program"),
-          ("/", "Accepted Papers"),
-          ("/", "Speakers"),
-          ("/", "Tutorials"),
-          ("/", "Workshops"),
-          ("/", "Committees"),
-          ("/", "Sponsors"),
-          ("/", "Photos"),
+          ("/stories/program", "Program"),
+          ("/stories/accepted-papers", "Accepted Papers"),
+          ("/stories/speakers", "Speakers"),
+          ("/stories/tutorials", "Tutorials"),
+          ("/stories/workshops", "Workshops"),
+          ("/stories/committees", "Committees"),
+          ("/stories/sponsors", "Sponsors"),
+          ("/stories/photos", "Photos"),
           ), "Conference"),
         ((
-          ("/", "Call For Papers"),
-          ("/", "Paper Submission"),
-          ("/", "Camera Ready Instructions"),
+          ("/stories/call-for-papers", "Call For Papers"),
+          ("/stories/paper-submission", "Paper Submission"),
+          ("/stories/camera-ready-instructions", "Camera Ready Instructions"),
           ), "For Authors"),
         ((
-          ("/", "Visa"),
-          ("/", "Registration"),
-          ("/", "Conference Venue"),
-          ("/", "Hotel Information"),
-          ("/", "Travel Information"),
-          ("/", "Call For Participation"),
+          ("/stories/visa", "Visa"),
+          ("/stories/registration", "Registration"),
+          ("/stories/conference-venue", "Conference Venue"),
+          ("/stories/hotel-information", "Hotel Information"),
+          ("/stories/travel-information", "Travel Information"),
+          ("/stories/call-for-participation", "Call For Participation"),
           ), "For Authors"),
         ((
-          ("/", "Past Conferences"),
-          ("/", "Contact Information"),
-          ("/", "Sponsors"),
-          ("/", "About Hamilton"),
+          ("http://acml-conf.org/", "Past Conferences"),
+          ("/stories/contact-information", "Contact Information"),
+          ("/stories/about-hamilton", "About Hamilton"),
           ), "Misc"),
     ),
 }
@@ -975,7 +974,7 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
 # COPY_SOURCES = True
