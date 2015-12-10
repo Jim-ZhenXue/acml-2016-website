@@ -51,4 +51,5 @@ Further reading
 * `Hamilton Central <http://hamiltoncentral.co.nz/>`_
 * `Hamilton and Waikato Tourism <http://www.hamiltonwaikato.com/destinations/hamilton-city/>`_
 * `Matamata aka Hobbiton <http://www.hamiltonwaikato.com/destinations/matamata-and-surrounds/>`_
+* `Wikipedia on Hamilton <https://en.wikipedia.org/wiki/Hamilton,_New_Zealand>`_
 
