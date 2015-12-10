@@ -8,6 +8,7 @@
 .. type: text
 
 Papers should be submitted through the ACML 2016 submission site:
+
 https://cmt.research.microsoft.com/ACML2016/.
 
 Each submission should be regarded as an undertaking that, if the paper is
@@ -30,7 +31,7 @@ author names, affiliations, self citations and any acknowledgments.
 Please download the file `ACML2016_Template.zip
 <http://acml-conf.org/2016/ACML2016_Template.zip>`_ for the LaTex template and
 style file (the files are extracted from
-http://www.tex.ac.uk/tex-archive/help/Catalogue/entries/jmlr.html - you may
+https://www.ctan.org/tex-archive/macros/latex/contrib/jmlr?lang=en - you may
 also download and use the entire package from there). Only the LaTex
 preparation system is supported to allow publication in the JMLR: Workshop and
 Conference Proceedings series.
