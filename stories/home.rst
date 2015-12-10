@@ -15,8 +15,38 @@ The University of Waikato, Hamilton - November 16-18 2016
 .. thumbnail:: ../../galleries/uow/lake.png
 
 
-Announcement
-------------
+ACML 2016
+---------
 
-* Conference website launched
+The 8th Asian Conference on Machine Learning (ACML 2016) will be held in Hamilton,
+New Zealand, on November 16-18, 2015. The conference aims to provide a leading
+international forum for researchers in machine learning and related fields to
+share their new ideas, progresses and achievements. Submissions from regions
+other than the Asia-Pacific are also highly encouraged.
 
+The conference calls for high-quality, original research papers in the theory
+and practice of machine learning. The conference also solicits proposals
+focusing on frontier research, new ideas and paradigms in machine learning. The
+conference proceedings will be published in The Journal of Machine Learning
+Research (JMLR): Workshop and Conference Proceedings series.
+
+Important Dates
+---------------
+
++----------------------------+-----------------+
+| Workshop Proposal Deadline | TBA             |
++----------------------------+-----------------+
+| Tutorial Proposal Deadline | TBA             |
++----------------------------+-----------------+
+| Early Submission Deadline  | TBA             |
++----------------------------+-----------------+
+| Early Notification Date    | TBA             |
++----------------------------+-----------------+
+| Final Submission Deadline  | TBA             |
++----------------------------+-----------------+
+| Final Notification Date    | TBA             |
++----------------------------+-----------------+
+| Camera Ready Deadline      | TBA             |
++----------------------------+-----------------+
+| Conference Dates           | Nov 16-18, 2016 |
++----------------------------+-----------------+
