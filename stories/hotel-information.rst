@@ -10,6 +10,10 @@
 Ibis Hamilton Tainui
 --------------------
 
+.. image:: ../../images/hotel_ibis.jpg
+   :height: 100px
+   :align: right
+
 Ibis Hamilton Tainui is your gateway to the Waikato region commanding a unique
 location on the banks of the Waikato River. Offering well appointed rooms with
 city or river views, modern conference facilities and restaurant with balcony
@@ -26,6 +30,10 @@ http://www.accorhotels.com/gb/hotel-6690-ibis-hamilton-tainui/
 Novotel Hamilton Tainui
 -----------------------
 
+.. image:: ../../images/hotel_novotel.jpg
+   :height: 100px
+   :align: right
+
 Make yourself at home in 4-star comfort at Novotel Hamilton Tainui hotel in the
 city centre. Start your day fresh with breakfast from the buffet in the
 light-filled restaurant or on the terrace adjacent to the Waikato River.
@@ -39,6 +47,10 @@ http://www.accorhotels.com/gb/hotel-2159-novotel-hamilton-tainui/
 
 Aspen Manor
 -----------
+
+.. image:: ../../images/hotel_aspenmanor.jpg
+   :height: 100px
+   :align: right
 
 Simon and Lornae will be delighted to host you at Aspen Manor, in the heart of
 Hamilton East, Hamilton and in close proximity to many of Hamilton’s key
