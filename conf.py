@@ -151,7 +151,7 @@ NAVIGATION_LINKS = {
           ("/stories/hotel-information", "Hotel Information"),
           ("/stories/travel-information", "Travel Information"),
           ("/stories/call-for-participation", "Call For Participation"),
-          ), "For Authors"),
+          ), "For Participants"),
         ((
           ("http://acml-conf.org/", "Past Conferences"),
           ("/stories/contact-information", "Contact Information"),
