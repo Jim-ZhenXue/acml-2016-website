@@ -30,8 +30,7 @@ author names, affiliations, self citations and any acknowledgments.
 
 Please download the file `ACML2016_Template.zip
 <http://acml-conf.org/2016/ACML2016_Template.zip>`_ for the LaTex template and
-style file (the files are extracted from
-https://www.ctan.org/tex-archive/macros/latex/contrib/jmlr?lang=en - you may
+style file (the files are extracted from the `tex archive <https://www.ctan.org/tex-archive/macros/latex/contrib/jmlr?lang=en>`_ - you may
 also download and use the entire package from there). Only the LaTex
 preparation system is supported to allow publication in the JMLR: Workshop and
 Conference Proceedings series.

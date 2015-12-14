@@ -28,7 +28,7 @@ The conference calls for high-quality, original research papers in the theory
 and practice of machine learning. The conference also solicits proposals
 focusing on frontier research, new ideas and paradigms in machine learning. The
 conference proceedings will be published in The Journal of Machine Learning
-Research (JMLR): Workshop and Conference Proceedings series.
+Research (JMLR): `Workshop and Conference Proceedings <http://jmlr.csail.mit.edu/proceedings/>`_ series.
 
 Important Dates
 ---------------
