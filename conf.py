@@ -128,34 +128,34 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/stories/home", "Home"),
+        ("/home", "Home"),
         ((
-          ("/stories/program", "Program"),
-          ("/stories/accepted-papers", "Accepted Papers"),
-          ("/stories/speakers", "Speakers"),
-          ("/stories/tutorials", "Tutorials"),
-          ("/stories/workshops", "Workshops"),
-          ("/stories/committees", "Committees"),
-          ("/stories/sponsors", "Sponsors"),
-          ("/stories/photos", "Photos"),
+          ("/program", "Program"),
+          ("/accepted-papers", "Accepted Papers"),
+          ("/speakers", "Speakers"),
+          ("/tutorials", "Tutorials"),
+          ("/workshops", "Workshops"),
+          ("/committees", "Committees"),
+          ("/sponsors", "Sponsors"),
+          ("/photos", "Photos"),
           ), "Conference"),
         ((
-          ("/stories/call-for-papers", "Call For Papers"),
-          ("/stories/paper-submission", "Paper Submission"),
-          ("/stories/camera-ready-instructions", "Camera Ready Instructions"),
+          ("/call-for-papers", "Call For Papers"),
+          ("/paper-submission", "Paper Submission"),
+          ("/camera-ready-instructions", "Camera Ready Instructions"),
           ), "For Authors"),
         ((
-          ("/stories/visa", "Visa"),
-          ("/stories/registration", "Registration"),
-          ("/stories/conference-venue", "Conference Venue"),
-          ("/stories/hotel-information", "Hotel Information"),
-          ("/stories/travel-information", "Travel Information"),
-          ("/stories/call-for-participation", "Call For Participation"),
+          ("/visa", "Visa"),
+          ("/registration", "Registration"),
+          ("/conference-venue", "Conference Venue"),
+          ("/hotel-information", "Hotel Information"),
+          ("/travel-information", "Travel Information"),
+          ("/call-for-participation", "Call For Participation"),
           ), "For Participants"),
         ((
           ("http://acml-conf.org/", "Past Conferences"),
-          ("/stories/contact-information", "Contact Information"),
-          ("/stories/about-hamilton", "About Hamilton"),
+          ("/contact-information", "Contact Information"),
+          ("/about-hamilton", "About Hamilton"),
           ), "Misc"),
     ),
 }
@@ -196,12 +196,10 @@ THEME_COLOR = '#5670d4'
 #
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.rst", "stories", "story.tmpl"),
-    ("stories/*.txt", "stories", "story.tmpl"),
+    ("stories/*.rst", "", "story.tmpl"),
+    ("stories/*.txt", "", "story.tmpl"),
 )
 
 
@@ -487,7 +485,7 @@ HIDDEN_AUTHORS = ['Guest']
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-# INDEX_PATH = ""
+INDEX_PATH = "blog"
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
@@ -543,7 +541,7 @@ HIDDEN_AUTHORS = ['Guest']
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = []
+REDIRECTIONS = [("index.html", "/home")]
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:
@@ -855,7 +853,7 @@ COMMENT_SYSTEM_ID = ""
 # WARNING: if a page would conflict with the index file (usually
 #          caused by setting slug to `index`), the STORY_INDEX
 #          will not be generated for that directory.
-# STORY_INDEX = False
+# STORY_INDEX = True
 # Enable comments on story pages?
 # COMMENTS_IN_STORIES = False
 # Enable comments on picture gallery pages?
@@ -901,9 +899,9 @@ PRETTY_URLS = True
 # If True, future dated posts are allowed in deployed output
 # Only the individual posts are published/deployed; not in indexes/sitemap
 # Generally, you want FUTURE_IS_NOW and DEPLOY_FUTURE to be the same value.
-# DEPLOY_FUTURE = False
+DEPLOY_FUTURE = False
 # If False, draft posts will not be deployed
-# DEPLOY_DRAFTS = True
+DEPLOY_DRAFTS = False
 
 # Allows scheduling of posts using the rule specified here (new_post -s)
 # Specify an iCal Recurrence Rule: http://www.kanzaki.com/docs/ical/rrule.html
@@ -1030,20 +1028,20 @@ SHOW_SOURCELINK = False
 # This search form works for any site and looks good in the "site" theme where
 # it appears on the navigation bar:
 #
-# SEARCH_FORM = """
-# <!-- DuckDuckGo custom search -->
-# <form method="get" id="search" action="//duckduckgo.com/"
-#  class="navbar-form pull-left">
-# <input type="hidden" name="sites" value="%s">
-# <input type="hidden" name="k8" value="#444444">
-# <input type="hidden" name="k9" value="#D51920">
-# <input type="hidden" name="kt" value="h">
-# <input type="text" name="q" maxlength="255"
-#  placeholder="Search&hellip;" class="span2" style="margin-top: 4px;">
-# <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
-# </form>
-# <!-- End of custom search -->
-# """ % SITE_URL
+SEARCH_FORM = """
+<!-- DuckDuckGo custom search -->
+<form method="get" id="search" action="//duckduckgo.com/"
+ class="navbar-form pull-left">
+<input type="hidden" name="sites" value="%s">
+<input type="hidden" name="k8" value="#444444">
+<input type="hidden" name="k9" value="#D51920">
+<input type="hidden" name="kt" value="h">
+<input type="text" name="q" maxlength="255"
+ placeholder="Search&hellip;" class="span2" style="margin-top: 4px;">
+<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+</form>
+<!-- End of custom search -->
+""" % SITE_URL
 #
 # If you prefer a Google search form, here's an example that should just work:
 # SEARCH_FORM = """
