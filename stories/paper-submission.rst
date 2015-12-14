@@ -15,6 +15,16 @@ Each submission should be regarded as an undertaking that, if the paper is
 accepted, at least one of the authors must register and attend the conference
 to present the work. No-show papers will not be included in the proceedings.
 
+Review
+------
+
+The review of the papers will be conducted in **double-blind** fashion (i.e., the
+reviewers of the paper won’t get to know the identity of the author(s), and
+the author(s) won’t get to know the identity of the reviewer).
+Therefore, do not submit your papers with any identifying information like
+name, email address and/or affiliation.
+
+
 Paper Format
 ------------
 
