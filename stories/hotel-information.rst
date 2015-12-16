@@ -14,6 +14,10 @@ College Hall is student accommodation on campus. Therefore it is only a stone's
 throw away from the conference venue. But it is also close to bus stops if you
 would want go to elsewhere.
 
+.. image:: ../../images/hotel.png
+   :height: 16px
+   :align: left
+
 http://www.waikato.ac.nz/sasd/acso/hor_collegehall.shtml
 
 
@@ -32,8 +36,16 @@ Events Centre and superbly located in the heart of the CBD allows easy access
 to shops, night life and major events. Ibis Tainui provides the perfect
 combinations for business or leisure.
 
+.. image:: ../../images/bus.png
+   :height: 16px
+   :align: left
+
 You can take the bus (line 13 and 2 stop on Victoria_ St) to the conference venue
 or hail a cab.
+
+.. image:: ../../images/hotel.png
+   :height: 16px
+   :align: left
 
 http://www.accorhotels.com/gb/hotel-6690-ibis-hamilton-tainui/
 
@@ -51,8 +63,16 @@ light-filled restaurant or on the terrace adjacent to the Waikato River.
 Contemporary decor and natural light make your room a haven whether you're
 working or holidaying at Novotel.
 
+.. image:: ../../images/bus.png
+   :height: 16px
+   :align: left
+
 You can take the bus (line 13 and 2 stop on Victoria_ St) to the conference venue
 or hail a cab.
+
+.. image:: ../../images/hotel.png
+   :height: 16px
+   :align: left
 
 http://www.accorhotels.com/gb/hotel-2159-novotel-hamilton-tainui/
 
@@ -69,8 +89,16 @@ Hamilton East, Hamilton and in close proximity to many of Hamilton’s key
 attractions and amenities. Offering friendly, professional service, in a
 central location, you will not want to stay anywhere else in Hamilton.
 
+.. image:: ../../images/bus.png
+   :height: 16px
+   :align: left
+
 You can take the bus (line 17 stops on Wellington_ St), hail a cab,
 or walk to the conference venue.
+
+.. image:: ../../images/hotel.png
+   :height: 16px
+   :align: left
 
 http://aspenmanor.co.nz/
 
