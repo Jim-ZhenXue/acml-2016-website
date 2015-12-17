@@ -7,12 +7,40 @@
 .. description: 
 .. type: text
 
+Conference rates
+================
+
+Please use the code **ACML2016** when booking with the accommodation listed below
+for receiving a special conference rate.
+
+
 College Hall
-------------
+============
 
 College Hall is student accommodation on campus. Therefore it is only a stone's
 throw away from the conference venue. But it is also close to bus stops if you
 would want go to elsewhere.
+
+More information
+----------------
+
+.. image:: ../../images/information.png
+   :height: 16px
+   :align: left
+
+?? ??
+
+.. image:: ../../images/phone.png
+   :height: 16px
+   :align: left
+
++64 7 ??? ????
+
+.. image:: ../../images/mail.png
+   :height: 16px
+   :align: left
+
+??@waikato.ac.nz
 
 .. image:: ../../images/hotel.png
    :height: 16px
@@ -21,47 +49,26 @@ would want go to elsewhere.
 http://www.waikato.ac.nz/sasd/acso/hor_collegehall.shtml
 
 
-Ibis Hamilton Tainui
---------------------
-
-.. image:: ../../images/hotel_ibis.jpg
-   :height: 100px
-   :align: right
-
-Ibis Hamilton Tainui is your gateway to the Waikato region commanding a unique
-location on the banks of the Waikato River. Offering well appointed rooms with
-city or river views, modern conference facilities and restaurant with balcony
-and views perfect for al fresco dining. Minutes from Hamilton's Claudelands
-Events Centre and superbly located in the heart of the CBD allows easy access
-to shops, night life and major events. Ibis Tainui provides the perfect
-combinations for business or leisure.
-
-.. image:: ../../images/bus.png
-   :height: 16px
-   :align: left
-
-You can take the bus (line 13 and 2 stop on Victoria_ St) to the conference venue
-or hail a cab.
-
-.. image:: ../../images/hotel.png
-   :height: 16px
-   :align: left
-
-http://www.accorhotels.com/gb/hotel-6690-ibis-hamilton-tainui/
-
-
 Novotel Hamilton Tainui
------------------------
+=======================
 
 .. image:: ../../images/hotel_novotel.jpg
    :height: 100px
    :align: right
 
-Make yourself at home in 4-star comfort at Novotel Hamilton Tainui hotel in the
-city centre. Start your day fresh with breakfast from the buffet in the
-light-filled restaurant or on the terrace adjacent to the Waikato River.
-Contemporary decor and natural light make your room a haven whether you're
-working or holidaying at Novotel.
+Novotel Tainui Hamilton is the only 4.5 star hotel in Hamilton. It is located
+in the heart of the Hamilton city centre, only minutes from shopping and
+entertainment. The preferred choice for business travellers, and an
+internationally recognised brand, Novotel Tainui Hamilton has 177 spacious,
+well-appointed guest rooms with 24 hour reception, gym, spa, sauna and on-site
+parking. The hotel’s popular restaurant and bar offer options for contemporary
+dining in-house.
+
+On-site facilities include Restaurant on Alma, the Lobby Bar, Health club
+including gymnasium, spa, sauna and massage by appointment.
+
+More information
+----------------
 
 .. image:: ../../images/bus.png
    :height: 16px
@@ -70,37 +77,81 @@ working or holidaying at Novotel.
 You can take the bus (line 13 and 2 stop on Victoria_ St) to the conference venue
 or hail a cab.
 
+.. image:: ../../images/information.png
+   :height: 16px
+   :align: left
+
+Abby Camp
+
+.. image:: ../../images/phone.png
+   :height: 16px
+   :align: left
+
++64 7 957 8011
+
+.. image:: ../../images/mail.png
+   :height: 16px
+   :align: left
+
+abby.camp@accor.com
+
 .. image:: ../../images/hotel.png
    :height: 16px
    :align: left
 
-http://www.accorhotels.com/gb/hotel-2159-novotel-hamilton-tainui/
+http://www.hamiltonwaikato.com/accommodation/all-accommodation/novotel-tainui-hamilton/
 
 
-Aspen Manor
------------
+Ibis Hamilton Tainui
+====================
 
-.. image:: ../../images/hotel_aspenmanor.jpg
+.. image:: ../../images/hotel_ibis.jpg
    :height: 100px
    :align: right
 
-Simon and Lornae will be delighted to host you at Aspen Manor, in the heart of
-Hamilton East, Hamilton and in close proximity to many of Hamilton’s key
-attractions and amenities. Offering friendly, professional service, in a
-central location, you will not want to stay anywhere else in Hamilton.
+Ibis Tainui Hamilton is Hamilton’s leading 3.5 star hotel. The hotel holds
+prime position overlooking the Waikato River and is a stone’s throw from the
+city’s restaurants, bars and shopping.
+
+The hotel offers 126 modern, spacious and comfortable guest rooms. Take
+advantage of the welcoming atmosphere of the restaurant and bar with an outdoor
+covered terrace, perfect for alfresco dinners or post conference drinks
+overlooking the Waikato River.
+
+More information
+----------------
 
 .. image:: ../../images/bus.png
    :height: 16px
    :align: left
 
-You can take the bus (line 17 stops on Wellington_ St), hail a cab,
-or walk to the conference venue.
+You can take the bus (line 13 and 2 stop on Victoria_ St) to the conference venue
+or hail a cab.
+
+.. image:: ../../images/information.png
+   :height: 16px
+   :align: left
+
+Abby Camp
+
+.. image:: ../../images/phone.png
+   :height: 16px
+   :align: left
+
++64 7 957 8011
+
+.. image:: ../../images/mail.png
+   :height: 16px
+   :align: left
+
+abby.camp@accor.com
 
 .. image:: ../../images/hotel.png
    :height: 16px
    :align: left
 
-http://aspenmanor.co.nz/
+http://www.hamiltonwaikato.com/accommodation/all-accommodation/ibis-tainui-hamilton/
+
 
 .. _Victoria: https://www.google.co.nz/maps/dir/Hotel+ibis+Hamilton+Tainui,+18+Alma+Street,+Hamilton+3204/206+Victoria+Street,+Hamilton/@-37.7870238,175.281282,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x6d6d18a4cb60f37f:0xe9e2fc2dc607ff35!2m2!1d175.2825073!2d-37.7852144!1m5!1m1!1s0x6d6d18ba83b0ab71:0xf278900f36f7794e!2m2!1d175.2847553!2d-37.7887532
 
