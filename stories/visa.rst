@@ -25,7 +25,7 @@ Invitation Letter for Visa Application
 If you need an Invitation Letter to apply for a visa to attend the Conference,
 please send the following information to acml2016@waikato.ac.nz with subject:
 
-**ACML2015: Invitation Letter for visa application**
+**ACML2016: Invitation Letter for visa application**
 
 And the following information: 
 

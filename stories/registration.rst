@@ -58,9 +58,9 @@ Cancellation Policy
 ===================
 
 * It is possible to transfer registration to another person if you can no
-  longer attend the conference until November ??, 2015 at 23:59pm Pacific Time.
+  longer attend the conference until November ??, 2016 at 23:59pm Pacific Time.
 * 50% of the registration fee can be refunded for cancellation requests made on
-  or before November ??, 2015 at 23:59pm Pacific Time.
-* No refund will be made for cancellation requests made after November ??, 2015.
+  or before November ??, 2016 at 23:59pm Pacific Time.
+* No refund will be made for cancellation requests made after November ??, 2016.
 * The service fee and bank charge are non-refundable.
 
