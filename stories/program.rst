@@ -7,6 +7,8 @@
 .. description: 
 .. type: text
 
+.. contents::
+
 * Pre-Conference Message
 * Program booklet
 * November 16, 2016 (Wednesday): Tutorials and Workshops

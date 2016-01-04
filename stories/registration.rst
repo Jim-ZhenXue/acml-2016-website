@@ -7,6 +7,8 @@
 .. description: 
 .. type: text
 
+.. contents::
+
 
 To register, please click `HERE <https://www.ivvy.com/a/waikato/e/>`_.
 ======================================================================

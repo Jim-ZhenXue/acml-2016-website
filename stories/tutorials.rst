@@ -7,6 +7,8 @@
 .. description: 
 .. type: text
 
+.. contents::
+
 * Morning Session: November 16, 2016
 
   - `Tutorial 1: TBA`_

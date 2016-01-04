@@ -7,6 +7,8 @@
 .. description: 
 .. type: text
 
+.. contents::
+
 Conference rates
 ================
 

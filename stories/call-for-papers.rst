@@ -7,6 +7,8 @@
 .. description: 
 .. type: text
 
+.. contents::
+
 The 8th Asian Conference on Machine Learning (ACML 2016) will be held in Hamilton,
 New Zealandd, on November 16-18, 2016. The conference aims to provide a leading
 international forum for researchers in machine learning and related fields to

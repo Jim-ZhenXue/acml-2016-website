@@ -7,6 +7,8 @@
 .. description: 
 .. type: text
 
+.. contents::
+
 Papers should be submitted through the ACML 2016 submission site:
 
 https://cmt.research.microsoft.com/ACML2016/.
