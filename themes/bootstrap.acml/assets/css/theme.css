@@ -205,3 +205,11 @@ article.post-micro {
         display: none;
     }
 }
+
+#contents {
+  float: right;
+  border: 5px solid #fee;
+  border-radius: 5px;
+  background-color: #fee;
+}
+
