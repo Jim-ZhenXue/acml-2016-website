@@ -19,9 +19,13 @@ import time
 # Data about this site
 BLOG_AUTHOR = "ACML"  # (translatable)
 BLOG_TITLE = "ACML 2016"  # (translatable)
+
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://www.acml-conf.org/2016/"
+# TODO deploy
+#SITE_URL = "http://www.acml-conf.org/2016/"
+SITE_URL = "http://www.cms.waikato.ac.nz/~fracpete/acml2016/"
+
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://www.acml-conf.org/2016/"
@@ -541,7 +545,11 @@ INDEX_PATH = "blog"
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = [("index.html", "/home")]
+REDIRECTIONS = [
+# TODO deploy
+#    ("index.html", "/2016/home"),
+    ("index.html", "/~fracpete/acml2016/home"),
+]
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:
@@ -553,11 +561,15 @@ REDIRECTIONS = [("index.html", "/home")]
 # to `nikola deploy`.  If no arguments are specified, a preset
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
-# DEPLOY_COMMANDS = {
-#     'default': [
-#         "rsync -rav --delete output/ joe@my.site:/srv/www/site",
-#     ]
-# }
+DEPLOY_COMMANDS = {
+# TODO deploy
+#    'default': [
+#        "rsync -rav --delete output/ joe@my.site:/srv/www/site",
+#    ]
+    'test': [
+        "rsync -rav --delete output/ --exclude '.ht*' fracpete@gale.cms.waikato.ac.nz:/home/fracpete/public_html/acml2016",
+    ]
+}
 
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
