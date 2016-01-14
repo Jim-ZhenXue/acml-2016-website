@@ -132,34 +132,33 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/home", "Home"),
         ((
-          ("/program", "Program"),
-          ("/accepted-papers", "Accepted Papers"),
-          ("/speakers", "Speakers"),
-          ("/tutorials", "Tutorials"),
-          ("/workshops", "Workshops"),
-          ("/committees", "Committees"),
-          ("/sponsors", "Sponsors"),
-          ("/photos", "Photos"),
+          ("/conference/program", "Program"),
+          ("/conference/accepted-papers", "Accepted Papers"),
+          ("/conference/speakers", "Speakers"),
+          ("/conference/tutorials", "Tutorials"),
+          ("/conference/workshops", "Workshops"),
+          ("/conference/committees", "Committees"),
+          ("/conference/sponsors", "Sponsors"),
+          ("/conference/photos", "Photos"),
           ), "Conference"),
         ((
-          ("/call-for-papers", "Call For Papers"),
-          ("/paper-submission", "Paper Submission"),
-          ("/camera-ready-instructions", "Camera Ready Instructions"),
+          ("/authors/call-for-papers", "Call For Papers"),
+          ("/authors/paper-submission", "Paper Submission"),
+          ("/authors/camera-ready-instructions", "Camera Ready Instructions"),
           ), "For Authors"),
         ((
-          ("/visa", "Visa"),
-          ("/registration", "Registration"),
-          ("/conference-venue", "Conference Venue"),
-          ("/hotel-information", "Hotel Information"),
-          ("/travel-information", "Travel Information"),
-          ("/call-for-participation", "Call For Participation"),
+          ("/participants/visa", "Visa"),
+          ("/participants/registration", "Registration"),
+          ("/participants/conference-venue", "Conference Venue"),
+          ("/participants/hotel-information", "Hotel Information"),
+          ("/participants/travel-information", "Travel Information"),
+          ("/participants/call-for-participation", "Call For Participation"),
           ), "For Participants"),
         ((
           ("http://acml-conf.org/", "Past Conferences"),
-          ("/contact-information", "Contact Information"),
-          ("/about-hamilton", "About Hamilton"),
+          ("/misc/contact-information", "Contact Information"),
+          ("/misc/about-hamilton", "About Hamilton"),
           ), "Misc"),
     ),
 }
@@ -202,8 +201,11 @@ THEME_COLOR = '#5670d4'
 POSTS = (
 )
 PAGES = (
-    ("stories/*.rst", "", "story.tmpl"),
-    ("stories/*.txt", "", "story.tmpl"),
+    ("pages/root/*.rst", "", "story.tmpl"),
+    ("pages/conference/*.rst", "conference", "story.tmpl"),
+    ("pages/authors/*.rst", "authors", "story.tmpl"),
+    ("pages/participants/*.rst", "participants", "story.tmpl"),
+    ("pages/misc/*.rst", "misc", "story.tmpl"),
 )
 
 
@@ -548,7 +550,7 @@ INDEX_PATH = "blog"
 REDIRECTIONS = [
 # TODO deploy
 #    ("index.html", "/2016/home"),
-    ("index.html", "/~fracpete/acml2016/home"),
+#    ("index.html", "/~fracpete/acml2016/home"),
 ]
 
 # Presets of commands to execute to deploy. Can be anything, for

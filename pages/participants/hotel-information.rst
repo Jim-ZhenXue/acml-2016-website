@@ -26,25 +26,25 @@ would want go to elsewhere.
 More information
 ----------------
 
-.. image:: ../images/information.png
+.. image:: ../../images/information.png
    :height: 16px
    :align: left
 
 ?? ??
 
-.. image:: ../images/phone.png
+.. image:: ../../images/phone.png
    :height: 16px
    :align: left
 
 +64 7 ??? ????
 
-.. image:: ../images/mail.png
+.. image:: ../../images/mail.png
    :height: 16px
    :align: left
 
 ??@waikato.ac.nz
 
-.. image:: ../images/hotel.png
+.. image:: ../../images/hotel.png
    :height: 16px
    :align: left
 
@@ -54,7 +54,7 @@ http://www.waikato.ac.nz/sasd/acso/hor_collegehall.shtml
 Novotel Hamilton Tainui
 =======================
 
-.. image:: ../images/hotel_novotel.jpg
+.. image:: ../../images/hotel_novotel.jpg
    :height: 100px
    :align: right
 
@@ -72,32 +72,32 @@ including gymnasium, spa, sauna and massage by appointment.
 More information
 ----------------
 
-.. image:: ../images/bus.png
+.. image:: ../../images/bus.png
    :height: 16px
    :align: left
 
 You can take the bus (line 13 and 2 stop on Victoria_ St) to the conference venue
 or hail a cab.
 
-.. image:: ../images/information.png
+.. image:: ../../images/information.png
    :height: 16px
    :align: left
 
 Abby Camp
 
-.. image:: ../images/phone.png
+.. image:: ../../images/phone.png
    :height: 16px
    :align: left
 
 +64 7 957 8011
 
-.. image:: ../images/mail.png
+.. image:: ../../images/mail.png
    :height: 16px
    :align: left
 
 abby.camp@accor.com
 
-.. image:: ../images/hotel.png
+.. image:: ../../images/hotel.png
    :height: 16px
    :align: left
 
@@ -107,7 +107,7 @@ http://www.hamiltonwaikato.com/accommodation/all-accommodation/novotel-tainui-ha
 Ibis Hamilton Tainui
 ====================
 
-.. image:: ../images/hotel_ibis.jpg
+.. image:: ../../images/hotel_ibis.jpg
    :height: 100px
    :align: right
 
@@ -123,32 +123,32 @@ overlooking the Waikato River.
 More information
 ----------------
 
-.. image:: ../images/bus.png
+.. image:: ../../images/bus.png
    :height: 16px
    :align: left
 
 You can take the bus (line 13 and 2 stop on Victoria_ St) to the conference venue
 or hail a cab.
 
-.. image:: ../images/information.png
+.. image:: ../../images/information.png
    :height: 16px
    :align: left
 
 Abby Camp
 
-.. image:: ../images/phone.png
+.. image:: ../../images/phone.png
    :height: 16px
    :align: left
 
 +64 7 957 8011
 
-.. image:: ../images/mail.png
+.. image:: ../../images/mail.png
    :height: 16px
    :align: left
 
 abby.camp@accor.com
 
-.. image:: ../images/hotel.png
+.. image:: ../../images/hotel.png
    :height: 16px
    :align: left
 

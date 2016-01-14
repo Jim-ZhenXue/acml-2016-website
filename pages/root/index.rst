@@ -1,5 +1,5 @@
 .. title: The 8th Asian Conference on Machine Learning, Hamilton
-.. slug: home
+.. slug: index
 .. date: 2015-12-10 10:08:39 UTC+13:00
 .. tags: 
 .. category: 
@@ -10,9 +10,9 @@
 The University of Waikato, Hamilton - November 16-18 2016
 ---------------------------------------------------------
 
-.. thumbnail:: ../galleries/uow/academy_of_performing_arts.png
-.. thumbnail:: ../galleries/uow/s-block.png
-.. thumbnail:: ../galleries/uow/lake.png
+.. thumbnail:: /galleries/uow/academy_of_performing_arts.png
+.. thumbnail:: /galleries/uow/s-block.png
+.. thumbnail:: /galleries/uow/lake.png
 
 
 ACML 2016
