@@ -99,4 +99,4 @@ Topics of interest include but are not limited to:
    * Multi-strategy learning
    * Other systems
 
-.. include:: pages/conference/committees.rst
+.. include:: pages/conference/committees_no_toc.rst
