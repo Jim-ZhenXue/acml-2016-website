@@ -548,9 +548,6 @@ INDEX_PATH = "blog"
 #
 # If you don't need any of these, just set to []
 REDIRECTIONS = [
-# TODO deploy
-#    ("index.html", "/2016/home"),
-#    ("index.html", "/~fracpete/acml2016/home"),
 ]
 
 # Presets of commands to execute to deploy. Can be anything, for
