@@ -806,10 +806,7 @@ FEED_LINKS_APPEND_QUERY = False
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
 LICENSE = """
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
-<img alt="Creative Commons License BY-SA"
-style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a>"""
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>"""
 # I recommend using the Creative Commons' wizard:
 # https://creativecommons.org/choose/
 # LICENSE = """
