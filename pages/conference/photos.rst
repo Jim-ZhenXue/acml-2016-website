@@ -7,16 +7,12 @@
 .. description: 
 .. type: text
 
-University of Waikato campus
+Campus
+======
 
-.. slides::
+.. image:: ../../galleries/uow/003.jpg
+   :width: 300px
+   :target: link://slug/photos-campus
+   :class: .islink
 
-   ../../galleries/uow/003.jpg
-   ../../galleries/uow/012.jpg
-   ../../galleries/uow/014.jpg
-   ../../galleries/uow/015.jpg
-   ../../galleries/uow/018.jpg
-   ../../galleries/uow/019.jpg
-   ../../galleries/uow/027.jpg
-   ../../galleries/uow/031.jpg
 

@@ -10,11 +10,9 @@
 The University of Waikato, Hamilton - November 16-18 2016
 ---------------------------------------------------------
 
-.. thumbnail:: /galleries/uow/003.jpg
-.. thumbnail:: /galleries/uow/012.jpg
-.. thumbnail:: /galleries/uow/018.jpg
-.. thumbnail:: /galleries/uow/031.jpg
-
+.. image:: /galleries/uow/003.jpg
+   :width: 200px
+   :align: right
 
 ACML 2016
 ---------
@@ -33,6 +31,10 @@ Research (JMLR): `Workshop and Conference Proceedings <http://jmlr.csail.mit.edu
 
 Important Dates
 ---------------
+
+.. image:: /galleries/uow/031.jpg
+   :width: 200px
+   :align: right
 
 +----------------------------+-----------------+
 | Workshop Proposal Deadline | TBA             |

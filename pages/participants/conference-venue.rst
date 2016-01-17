@@ -29,8 +29,20 @@ Venues
   * Main conference in S-Block_, University of Waikato
 
 .. _S-Block: http://www.waikato.ac.nz/contacts/map?S
+   
 
 Transportation
 ==============
 
 More information available from the `Hotel Information <link://slug/hotel-information>`_ and `Travel Information <link://slug/travel-information>`_ pages.
+
+
+Photos
+======
+
+.. slides::
+
+   ../../galleries/uow/014.jpg
+   ../../galleries/uow/015.jpg
+   ../../galleries/uow/018.jpg
+   ../../galleries/uow/019.jpg
