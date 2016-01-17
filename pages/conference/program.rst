@@ -11,24 +11,25 @@
 
 * Pre-Conference Message
 * Program booklet
-* November 16, 2016 (Wednesday): Tutorials and Workshops
-* November 17, 2016 (Thursday): Main conference
-* November 18, 2016 (Friday): Main conference
-
-Wednesday, November 16, 2016: Tutorials and Workshops
-=====================================================
-
-TBA
+* Wed, November 16, 2016: Tutorials and Workshops
+* Thu, November 17, 2016: Main conference
+* Fri, November 18, 2016: Main conference
 
 
-Thursday, November 17, 2016: Main conference
-============================================
+Wednesday: Tutorials and Workshops
+==================================
 
 TBA
 
 
-Friday, November 18, 2016: Main conference
-==========================================
+Thursday: Main conference
+=========================
+
+TBA
+
+
+Friday: Main conference
+=======================
 
 TBA
 
