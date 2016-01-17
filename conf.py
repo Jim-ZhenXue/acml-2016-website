@@ -657,7 +657,7 @@ DEPLOY_COMMANDS = {
 GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
 THUMBNAIL_SIZE = 180
-# MAX_IMAGE_SIZE = 1280
+MAX_IMAGE_SIZE = 800
 # USE_FILENAME_AS_TITLE = True
 # EXTRA_IMAGE_EXTENSIONS = []
 #
