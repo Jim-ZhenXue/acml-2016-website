@@ -10,8 +10,8 @@
 .. contents::
 
 
-To register, please click `HERE <https://www.ivvy.com/a/waikato/e/>`_.
-======================================================================
+**To register, please click** `HERE <https://www.ivvy.com/a/waikato/e/>`_ **.**
+
 
 
 Important Dates
