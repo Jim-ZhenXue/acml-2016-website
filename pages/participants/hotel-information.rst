@@ -30,19 +30,19 @@ More information
    :height: 16px
    :align: left
 
-?? ??
+Accommodation and Conference Services
 
 .. image:: ../../images/phone.png
    :height: 16px
    :align: left
 
-+64 7 ??? ????
++64 7 838 4910
 
 .. image:: ../../images/mail.png
    :height: 16px
    :align: left
 
-??@waikato.ac.nz
+conference@waikato.ac.nz
 
 .. image:: ../../images/hotel.png
    :height: 16px
@@ -89,13 +89,13 @@ Abby Camp
    :height: 16px
    :align: left
 
-+64 7 957 8011
++64 7 838 1366
 
 .. image:: ../../images/mail.png
    :height: 16px
    :align: left
 
-abby.camp@accor.com
+h2159-re2@accor.com
 
 .. image:: ../../images/hotel.png
    :height: 16px
@@ -140,13 +140,13 @@ Abby Camp
    :height: 16px
    :align: left
 
-+64 7 957 8011
++64 7 838 1366
 
 .. image:: ../../images/mail.png
    :height: 16px
    :align: left
 
-abby.camp@accor.com
+h2159-re2@accor.com
 
 .. image:: ../../images/hotel.png
    :height: 16px

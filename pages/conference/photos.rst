@@ -11,7 +11,12 @@ University of Waikato campus
 
 .. slides::
 
-   ../../galleries/uow/academy_of_performing_arts.png
-   ../../galleries/uow/s-block.png
-   ../../galleries/uow/lake.png
+   ../../galleries/uow/003.jpg
+   ../../galleries/uow/012.jpg
+   ../../galleries/uow/014.jpg
+   ../../galleries/uow/015.jpg
+   ../../galleries/uow/018.jpg
+   ../../galleries/uow/019.jpg
+   ../../galleries/uow/027.jpg
+   ../../galleries/uow/031.jpg
 

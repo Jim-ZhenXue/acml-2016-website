@@ -10,9 +10,10 @@
 The University of Waikato, Hamilton - November 16-18 2016
 ---------------------------------------------------------
 
-.. thumbnail:: /galleries/uow/academy_of_performing_arts.png
-.. thumbnail:: /galleries/uow/s-block.png
-.. thumbnail:: /galleries/uow/lake.png
+.. thumbnail:: /galleries/uow/003.jpg
+.. thumbnail:: /galleries/uow/012.jpg
+.. thumbnail:: /galleries/uow/018.jpg
+.. thumbnail:: /galleries/uow/031.jpg
 
 
 ACML 2016
