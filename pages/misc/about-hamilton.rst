@@ -55,3 +55,15 @@ Further reading
 * `Matamata aka Hobbiton <http://www.hamiltonwaikato.com/destinations/matamata-and-surrounds/>`_
 * `Wikipedia on Hamilton <https://en.wikipedia.org/wiki/Hamilton,_New_Zealand>`_
 
+
+Photos
+------
+
+.. slides::
+
+   ../../galleries/hamilton/aerial.jpg
+   ../../galleries/hamilton/balloons.jpg
+   ../../galleries/hamilton/bridge.jpg
+   ../../galleries/hamilton/hamilton_gardens.jpg
+   ../../galleries/hamilton/lake.jpg
+
