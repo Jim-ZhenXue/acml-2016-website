@@ -12,8 +12,10 @@
 Conference rates
 ================
 
-Please use the code **ACML2016** when booking with the accommodation listed below
-for receiving a special conference rate.
+Please use the code **EVENTZ** when booking with the **Ibis** or **Novotel** hotel
+listed below for receiving a special conference rate. 
+
+More details can be found `here <link://slug/hotel-conference-rate>`__.
 
 
 College Hall
