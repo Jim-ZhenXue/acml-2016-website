@@ -97,11 +97,17 @@ Abby Camp
 
 h2159-re2@accor.com
 
+.. image:: ../../images/money.png
+   :height: 16px
+   :align: left
+
+Preferential code for conference delegate rate: **EVENTZ**
+
 .. image:: ../../images/hotel.png
    :height: 16px
    :align: left
 
-http://www.hamiltonwaikato.com/accommodation/all-accommodation/novotel-tainui-hamilton/
+http://www.accorhotels.com/gb/hotel-2159-novotel-hamilton-tainui/index.shtml
 
 
 Ibis Hamilton Tainui
@@ -148,11 +154,17 @@ Abby Camp
 
 h2159-re2@accor.com
 
+.. image:: ../../images/money.png
+   :height: 16px
+   :align: left
+
+Preferential code for conference delegate rate: **EVENTZ**
+
 .. image:: ../../images/hotel.png
    :height: 16px
    :align: left
 
-http://www.hamiltonwaikato.com/accommodation/all-accommodation/ibis-tainui-hamilton/
+http://www.accorhotels.com/gb/hotel-6690-ibis-hamilton-tainui/index.shtml
 
 
 .. _Victoria: https://www.google.co.nz/maps/dir/Hotel+ibis+Hamilton+Tainui,+18+Alma+Street,+Hamilton+3204/206+Victoria+Street,+Hamilton/@-37.7870238,175.281282,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x6d6d18a4cb60f37f:0xe9e2fc2dc607ff35!2m2!1d175.2825073!2d-37.7852144!1m5!1m1!1s0x6d6d18ba83b0ab71:0xf278900f36f7794e!2m2!1d175.2847553!2d-37.7887532
