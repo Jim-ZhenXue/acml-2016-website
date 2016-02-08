@@ -30,6 +30,12 @@ conference proceedings will be published in The Journal of Machine Learning
 Research (JMLR): `Workshop and Conference Proceedings <http://jmlr.csail.mit.edu/proceedings/>`_ series.
 
 
+Speakers
+--------
+
+TBA
+
+
 Venue
 -----
 
