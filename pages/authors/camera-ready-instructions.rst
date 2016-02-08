@@ -1,7 +1,7 @@
 .. title: Camera Ready Instructions
 .. slug: camera-ready-instructions
 .. date: 2015-12-10 10:09:58 UTC+13:00
-.. tags: 
+.. tags: draft
 .. category: 
 .. link: 
 .. description: 

@@ -29,6 +29,14 @@ focusing on frontier research, new ideas and paradigms in machine learning. The
 conference proceedings will be published in The Journal of Machine Learning
 Research (JMLR): `Workshop and Conference Proceedings <http://jmlr.csail.mit.edu/proceedings/>`_ series.
 
+
+Venue
+-----
+
+* The conference will be held on campus of the University of Waikato (`photos <link://slug/photos-campus>`__). 
+* The banquet will be held at Hobbiton (`photos <link://slug/photos-hobbiton>`__)
+
+
 Important Dates
 ---------------
 

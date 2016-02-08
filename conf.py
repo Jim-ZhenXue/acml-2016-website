@@ -130,31 +130,40 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
+#NAVIGATION_LINKS = {
+#    DEFAULT_LANG: (
+#        ((
+#          ("/conference/program", "Program"),
+#          ("/conference/accepted-papers", "Accepted Papers"),
+#          ("/conference/speakers", "Speakers"),
+#          ("/conference/tutorials", "Tutorials"),
+#          ("/conference/workshops", "Workshops"),
+#          ("/conference/committees", "Committees"),
+#          ("/conference/sponsors", "Sponsors"),
+#          ("/conference/photos", "Photos"),
+#          ), "Conference"),
+#        ((
+#          ("/authors/call-for-papers", "Call For Papers"),
+#          ("/authors/paper-submission", "Paper Submission"),
+#          ("/authors/camera-ready-instructions", "Camera Ready Instructions"),
+#          ), "For Authors"),
+#        ((
+#          ("/participants/visa", "Visa"),
+#          ("/participants/registration", "Registration"),
+#          ("/participants/conference-venue", "Conference Venue"),
+#          ("/participants/hotel-information", "Hotel Information"),
+#          ("/participants/travel-information", "Travel Information"),
+#          ("/participants/call-for-participation", "Call For Participation"),
+#          ), "For Participants"),
+#        ((
+#          ("http://acml-conf.org/", "Past Conferences"),
+#          ("/misc/contact-information", "Contact Information"),
+#          ("/misc/about-hamilton", "About Hamilton"),
+#          ), "Misc"),
+#    ),
+#}
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ((
-          ("/conference/program", "Program"),
-          ("/conference/accepted-papers", "Accepted Papers"),
-          ("/conference/speakers", "Speakers"),
-          ("/conference/tutorials", "Tutorials"),
-          ("/conference/workshops", "Workshops"),
-          ("/conference/committees", "Committees"),
-          ("/conference/sponsors", "Sponsors"),
-          ("/conference/photos", "Photos"),
-          ), "Conference"),
-        ((
-          ("/authors/call-for-papers", "Call For Papers"),
-          ("/authors/paper-submission", "Paper Submission"),
-          ("/authors/camera-ready-instructions", "Camera Ready Instructions"),
-          ), "For Authors"),
-        ((
-          ("/participants/visa", "Visa"),
-          ("/participants/registration", "Registration"),
-          ("/participants/conference-venue", "Conference Venue"),
-          ("/participants/hotel-information", "Hotel Information"),
-          ("/participants/travel-information", "Travel Information"),
-          ("/participants/call-for-participation", "Call For Participation"),
-          ), "For Participants"),
         ((
           ("http://acml-conf.org/", "Past Conferences"),
           ("/misc/contact-information", "Contact Information"),

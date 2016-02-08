@@ -1,7 +1,7 @@
 .. title: Call For Papers
 .. slug: call-for-papers
 .. date: 2015-12-10 10:09:46 UTC+13:00
-.. tags: 
+.. tags: draft
 .. category: 
 .. link: 
 .. description: 
