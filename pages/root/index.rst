@@ -46,6 +46,10 @@ The confirmed speakers are:
   | Institute of Medical Informatics
   | National Cheng Kung University, Tainan, Taiwan, R.O.C.
 
+* **John Shawe-Taylor** - *keynote*
+
+  | Professor at UCL
+
 * **Tie-Yan Liu** - *invited*
 
   | Principal researcher at Microsoft Research China, 
