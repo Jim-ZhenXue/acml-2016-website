@@ -39,18 +39,19 @@ Speakers
 
 The confirmed speakers are:
 
-* **Vincent Tseng** - *keynote*
+* `John Shawe-Taylor <http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/>`__ - *keynote*
+
+  | Professor and Director of the Centre for Computational Statistics and Machine Learning at University College London, 
+  | and scientific coordinator of the EU Framework VI Network of Excellence in Pattern Analysis, Statistical Modelling and Computational Learning (PASCAL).
+
+* `Vincent Tseng <http://idb.csie.ncku.edu.tw/tsengsm/>`__ - *keynote*
 
   | Distinguished Professor
   | Dept. Computer Science and Information Engineering
   | Institute of Medical Informatics
   | National Cheng Kung University, Tainan, Taiwan, R.O.C.
 
-* **John Shawe-Taylor** - *keynote*
-
-  | Professor at UCL
-
-* **Tie-Yan Liu** - *invited*
+* `Tie-Yan Liu <http://research.microsoft.com/en-us/people/tyliu/>`__ - *invited*
 
   | Principal researcher at Microsoft Research China, 
   | adjunct professor at Carnegie Mellon University (LTI), 
