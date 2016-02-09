@@ -33,7 +33,20 @@ Research (JMLR): `Workshop and Conference Proceedings <http://jmlr.csail.mit.edu
 Speakers
 --------
 
-TBA
+The confirmed speakers are:
+
+* **Vincent Tseng** - *keynote*
+
+  | Distinguished Professor
+  | Dept. Computer Science and Information Engineering
+  | Institute of Medical Informatics
+  | National Cheng Kung University, Tainan, Taiwan, R.O.C.
+
+* **Tie-Yan Liu** - *invited*
+
+  | Principal researcher at Microsoft Research China, 
+  | adjunct professor at Carnegie Mellon University (LTI), 
+  | and an honorary professor at University of Nottingham.
 
 
 Venue
