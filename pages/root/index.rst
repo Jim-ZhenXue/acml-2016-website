@@ -33,6 +33,10 @@ Research (JMLR): `Workshop and Conference Proceedings <http://jmlr.csail.mit.edu
 Speakers
 --------
 
+.. image:: /galleries/uow/028.jpg
+   :width: 200px
+   :align: right
+
 The confirmed speakers are:
 
 * **Vincent Tseng** - *keynote*
@@ -52,16 +56,16 @@ The confirmed speakers are:
 Venue
 -----
 
+.. image:: /galleries/uow/031.jpg
+   :width: 200px
+   :align: right
+
 * The conference will be held on campus of the University of Waikato (`photos <link://slug/photos-campus>`__). 
 * The banquet will be held at Hobbiton (`photos <link://slug/photos-hobbiton>`__)
 
 
 Important Dates
 ---------------
-
-.. image:: /galleries/uow/031.jpg
-   :width: 200px
-   :align: right
 
 +----------------------------+-----------------+
 | Workshop Proposal Deadline | TBA             |
