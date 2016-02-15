@@ -1,7 +1,7 @@
 .. title: Call For Papers
 .. slug: call-for-papers
 .. date: 2015-12-10 10:09:46 UTC+13:00
-.. tags: draft
+.. tags: 
 .. category: 
 .. link: 
 .. description: 
@@ -26,29 +26,10 @@ ACML special issue/section of the Machine Learning Journal.
 
 For questions and suggestions on paper submission, please write to acml2016@waikato.ac.nz
 
-Important Dates
-===============
-
-+----------------------------+-----------------+
-| Workshop Proposal Deadline | TBA             |
-+----------------------------+-----------------+
-| Tutorial Proposal Deadline | TBA             |
-+----------------------------+-----------------+
-| Early Submission Deadline  | TBA             |
-+----------------------------+-----------------+
-| Early Notification Date    | TBA             |
-+----------------------------+-----------------+
-| Final Submission Deadline  | TBA             |
-+----------------------------+-----------------+
-| Final Notification Date    | TBA             |
-+----------------------------+-----------------+
-| Camera Ready Deadline      | TBA             |
-+----------------------------+-----------------+
-| Conference Dates           | Nov 16-18, 2016 |
-+----------------------------+-----------------+
+.. include:: pages/conference/important_dates.rst
 
 Topics of Interest
-==================
+------------------
 
 Topics of interest include but are not limited to:
 
@@ -99,4 +80,3 @@ Topics of interest include but are not limited to:
    * Multi-strategy learning
    * Other systems
 
-.. include:: pages/conference/committees_no_toc.rst

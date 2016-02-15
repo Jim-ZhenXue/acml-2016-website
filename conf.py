@@ -144,9 +144,11 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          ), "Conference"),
 #        ((
 #          ("/authors/call-for-papers", "Call For Papers"),
+#          ("/authors/call-for-workshops", "Call For Workshops"),
+#          ("/authors/call-for-tutorials", "Call For Tutorials"),
 #          ("/authors/paper-submission", "Paper Submission"),
 #          ("/authors/camera-ready-instructions", "Camera Ready Instructions"),
-#          ), "For Authors"),
+#          ), "Authors & Contributors"),
 #        ((
 #          ("/participants/visa", "Visa"),
 #          ("/participants/registration", "Registration"),
@@ -154,7 +156,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          ("/participants/hotel-information", "Hotel Information"),
 #          ("/participants/travel-information", "Travel Information"),
 #          ("/participants/call-for-participation", "Call For Participation"),
-#          ), "For Participants"),
+#          ), "Participants"),
 #        ((
 #          ("http://acml-conf.org/", "Past Conferences"),
 #          ("/misc/contact-information", "Contact Information"),
@@ -164,6 +166,11 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #}
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ((
+          ("/authors/call-for-papers", "Call For Papers"),
+          ("/authors/call-for-workshops", "Call For Workshops"),
+          ("/authors/call-for-tutorials", "Call For Tutorials"),
+          ), "Authors & Contributors"),
         ((
           ("http://acml-conf.org/", "Past Conferences"),
           ("/misc/contact-information", "Contact Information"),

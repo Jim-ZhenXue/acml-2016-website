@@ -10,7 +10,7 @@
 The University of Waikato, Hamilton - November 16-18 2016
 ---------------------------------------------------------
 
-.. image:: /galleries/uow/003.jpg
+.. image:: /images/hobbiton.jpg
    :width: 200px
    :align: right
 
@@ -69,23 +69,12 @@ Venue
 * The banquet will be held at Hobbiton (`photos <link://slug/photos-hobbiton>`__)
 
 
-Important Dates
----------------
+Authors & Contributors
+----------------------
 
-+----------------------------+-----------------+
-| Workshop Proposal Deadline | TBA             |
-+----------------------------+-----------------+
-| Tutorial Proposal Deadline | TBA             |
-+----------------------------+-----------------+
-| Early Submission Deadline  | TBA             |
-+----------------------------+-----------------+
-| Early Notification Date    | TBA             |
-+----------------------------+-----------------+
-| Final Submission Deadline  | TBA             |
-+----------------------------+-----------------+
-| Final Notification Date    | TBA             |
-+----------------------------+-----------------+
-| Camera Ready Deadline      | TBA             |
-+----------------------------+-----------------+
-| Conference Dates           | Nov 16-18, 2016 |
-+----------------------------+-----------------+
+* `Call for Papers <link://slug/call-for-papers>`__
+* `Call for Workshops <link://slug/call-for-workshops>`__
+* `Call for Tutorials <link://slug/call-for-tutorials>`__
+
+.. include:: pages/conference/important_dates.rst
+
