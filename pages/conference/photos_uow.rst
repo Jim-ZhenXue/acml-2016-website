@@ -19,4 +19,5 @@ Below are impressions of the campus and the conference venue.
    ../../galleries/uow/019.jpg
    ../../galleries/uow/027.jpg
    ../../galleries/uow/031.jpg
+   ../../galleries/uow/academy_night.png
 

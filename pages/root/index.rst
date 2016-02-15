@@ -33,7 +33,7 @@ Research (JMLR): `Workshop and Conference Proceedings <http://jmlr.csail.mit.edu
 Speakers
 --------
 
-.. image:: /galleries/uow/028.jpg
+.. image:: /images/academy_night.png
    :width: 200px
    :align: right
 
