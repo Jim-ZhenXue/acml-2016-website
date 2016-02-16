@@ -27,6 +27,12 @@ the Mill and into the world-famous Green Dragon™ Inn, where you will be
 provided with one of our exclusive Southfarthing beverages, before being
 whisked away to enjoy a banquet feast fit for a Hobbit.
 
+**PLEASE NOTE:** Hobbiton have two golf carts available for the duration of the
+tour if you find it difficult to stand or walk for long periods of time. Each
+golf cart has three seats. To book a seat on one of these golf carts, please
+email acml2016@waikato.ac.nz ASAP. 
+
+
 .. slides::
 
    ../../galleries/hobbiton/hobbiton.jpg
