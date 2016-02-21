@@ -57,6 +57,11 @@ The confirmed speakers are:
   | adjunct professor at Carnegie Mellon University (LTI), 
   | and an honorary professor at University of Nottingham.
 
+* `Albert Bifet <http://albertbifet.com/>`__ - *invited*
+
+  | Associate Professor in Big Data at Telecom ParisTech, Universite Paris-Saclay 
+  | and Honorary Research Associate at University of Waikato.
+
 
 Venue
 -----
