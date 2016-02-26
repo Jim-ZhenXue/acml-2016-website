@@ -63,6 +63,23 @@ The confirmed speakers are:
   | and Honorary Research Associate at University of Waikato.
 
 
+Chairs
+------
+
+* Tutorial co-chairs
+
+  * `Ichiro Takeuchi <http://www-als.ics.nitech.ac.jp/~takeuchi/>`__, Nagoya
+    Institute of Technology and 
+  * `Bernhard Pfahringer <http://www.cs.waikato.ac.nz/~bernhard/>`__,
+    University of Waikato
+
+* Workshop co-chairs
+
+  * `Yang Yu <http://cs.nju.edu.cn/yuy>`__, Nanjing University and 
+  * `Russel Pears <http://www.aut.ac.nz/profiles/Computer-mathematical-sciences/associate-professors/russel-pears>`__, 
+    Auckland University of Technology
+
+
 Venue
 -----
 
