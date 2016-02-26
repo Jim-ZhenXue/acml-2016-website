@@ -10,7 +10,7 @@
 .. contents::
 
 The 8th Asian Conference on Machine Learning (ACML 2016) will be held at the
-university of Waikato, Hamilton, New Zealand on November 16-18, 2016. The
+University of Waikato, Hamilton, New Zealand on November 16-18, 2016. The
 conference aim is to provide a leading international forum for researchers in
 machine learning and related fields to share their new ideas, progresses and
 achievements. Submissions from regions other than the Asia-Pacific are highly
