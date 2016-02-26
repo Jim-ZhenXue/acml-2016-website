@@ -25,9 +25,14 @@ other than the Asia-Pacific are also highly encouraged.
 
 The conference calls for high-quality, original research papers in the theory
 and practice of machine learning. The conference also solicits proposals
-focusing on frontier research, new ideas and paradigms in machine learning. The
-conference proceedings will be published in The Journal of Machine Learning
-Research (JMLR): `Workshop and Conference Proceedings <http://jmlr.csail.mit.edu/proceedings/>`_ series.
+focusing on frontier research, new ideas and paradigms in machine learning.
+
+This year we are running **two publication tracks**: Authors may submit either to
+the **conference track**, for which the proceedings will be published as a volume
+of Journal of Machine Learning Research (JMLR): `Workshop and Conference
+Proceedings <http://jmlr.csail.mit.edu/proceedings/>`__ series, or to the
+**journal track** for which accepted papers will appear in a special issue of
+the `Springer journal Machine Learning <http://www.springer.com/computer/ai/journal/10994>`__.
 
 
 Speakers
@@ -61,23 +66,6 @@ The confirmed speakers are:
 
   | Associate Professor in Big Data at Telecom ParisTech, Universite Paris-Saclay 
   | and Honorary Research Associate at University of Waikato.
-
-
-Chairs
-------
-
-* Tutorial co-chairs
-
-  * `Ichiro Takeuchi <http://www-als.ics.nitech.ac.jp/~takeuchi/>`__, Nagoya
-    Institute of Technology and 
-  * `Bernhard Pfahringer <http://www.cs.waikato.ac.nz/~bernhard/>`__,
-    University of Waikato
-
-* Workshop co-chairs
-
-  * `Yang Yu <http://cs.nju.edu.cn/yuy>`__, Nanjing University and 
-  * `Russel Pears <http://www.aut.ac.nz/profiles/Computer-mathematical-sciences/associate-professors/russel-pears>`__, 
-    Auckland University of Technology
 
 
 Venue

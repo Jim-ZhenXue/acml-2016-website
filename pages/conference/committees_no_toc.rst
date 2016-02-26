@@ -1,7 +1,7 @@
 .. title: Committees
 .. slug: committees-no-toc
 .. date: 2015-12-10 10:09:26 UTC+13:00
-.. tags: draft
+.. tags: 
 .. category: 
 .. link: 
 .. description: 
@@ -13,56 +13,67 @@ Organizing Committee
 General Co-Chairs
 -----------------
 
-* Someone
-* Else
+* `Geoff Holmes <http://www.cms.waikato.ac.nz/people/geoff>`__, 
+  University of Waikato, New Zealand
+* `Stephen Marsland <http://www.massey.ac.nz/massey/expertise/profile.cfm?stref=895830>`__, 
+  Massey University, New Zealand
 
 Program Co-Chairs
 -----------------
 
-* Someone
-* Else
-
-Local Arrangement Co-Chairs
----------------------------
-
-* Someone
-* Else
+* `Bob Durrant <http://www.stats.waikato.ac.nz/~bobd/>`__, 
+  University of Waikato, New Zealand
+* `Kee-Eung Kim <http://ailab.kaist.ac.kr/users/kekim>`__, 
+  KAIST, South Korea
 
 Workshop Co-Chairs
 ------------------
 
-* Someone
-* Else
+* `Yang Yu <http://cs.nju.edu.cn/yuy>`__, 
+  Nanjing University, China
+* `Russel Pears <http://www.aut.ac.nz/profiles/Computer-mathematical-sciences/associate-professors/russel-pears>`__, 
+  Auckland University of Technology, New Zealand
 
 Tutorial Co-Chairs
 ------------------
 
-* Someone
-* Else
+* `Ichiro Takeuchi <http://www-als.ics.nitech.ac.jp/~takeuchi/>`__, 
+  Nagoya Institute of Technology, Japan
+* `Bernhard Pfahringer <http://www.cs.waikato.ac.nz/~bernhard/>`__,
+  University of Waikato, New Zealand
 
-Publication Co-Chairs
----------------------
+Local Arrangement Co-Chairs
+---------------------------
 
-* Someone
-* Else
+* `Lyn Hunt <http://www.stats.waikato.ac.nz/people/lah>`__, 
+  University of Waikato, New Zealand
+* `Hannah Te Puia <http://www.cms.waikato.ac.nz/people/hehall>`__, 
+  University of Waikato, New Zealand
 
 Steering Committee
 ==================
 
-* Many
-* People
-* From
-* All
-* Over
-* The
-* World
-
-Senior Program Committee
-========================
-
-* Even
-* More
-* People
-* Here
+* `Wray Buntine <http://nicta.com.au/people/buntinew>`__, 
+  National ICT Australia, Australia
+* `Tom Dietterich <http://web.engr.oregonstate.edu/~tgd/>`__, 
+  Oregon State University, USA
+* `Tu Bao Ho <http://www.jaist.ac.jp/~bao/>`__, 
+  Co-chair, Japan Advanced Institute of Science and Technology, Japan
+* `Wee Sun Lee <http://www.comp.nus.edu.sg/~leews/>`__, 
+  National University of Singapore, Singapore
+* `Chih-Jen Lin <http://www.csie.ntu.edu.tw/~cjlin/>`__, 
+  National Taiwan University, Taiwan
+* `Bernhard Pfahringer <http://www.cs.waikato.ac.nz/~bernhard/>`__, 
+  Waikato University, New Zealand
+* `Masashi Sugiyama <http://www.ms.k.u-tokyo.ac.jp/index.html>`__, 
+  The University of Tokyo, Japan
+* `Takashi Washio <http://www.ar.sanken.osaka-u.ac.jp/~washio/washpreg.html>`__, 
+  Osaka University, Japan
+* `Geoff Webb <http://www.infotech.monash.edu.au/research/profiles/profile.html?sid=4540&pid=122>`__, 
+  Monash University, Australia
+* `Qiang Yang <http://www.cs.ust.hk/~qyang/>`__, 
+  Hong Kong University of Science and Technology, Hong Kong
+* `Zhi-Hua Zhou <http://cs.nju.edu.cn/zhouzh/>`__, 
+  Chair, Nanjing University, China
 
 

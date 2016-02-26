@@ -24,11 +24,12 @@ focusing on frontier research, new ideas and new paradigms in machine learning.
 Submission
 ----------
 
-This year we are running **two technical tracks**: Authors may submit either to
+This year we are running **two publication tracks**: Authors may submit either to
 the **conference track**, for which the proceedings will be published as a volume
-of Journal of Machine Learning Research (JMLR): Workshop and Conference
-Proceedings series, or to the **journal track** for which accepted papers will
-appear in a special issue of the Springer journal Machine Learning.
+of Journal of Machine Learning Research (JMLR): `Workshop and Conference
+Proceedings <http://jmlr.csail.mit.edu/proceedings/>`__ series, or to the
+**journal track** for which accepted papers will appear in a special issue of
+the `Springer journal Machine Learning <http://www.springer.com/computer/ai/journal/10994>`__.
 
 **Please note that submission arrangements for the two tracks are different.**
 
@@ -47,7 +48,7 @@ but reviewers are not obligated to consider this, and your manuscript should
 therefore stand on its own merits without any supplementary material.
 
 You can download a suitable Latex template and style file from `here
-<http://acml-conf.org/2015/ACML2015_Template.zip>`__.
+</ACML2016_template.zip>`__.
 
 Submissions must have all detail identifying the author(s) removed from the
 original manuscript.

@@ -167,6 +167,10 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ((
+          ("/conference/committees", "Committees"),
+          ("/conference/photos", "Photos"),
+          ), "Conference"),
+        ((
           ("/authors/call-for-papers", "Call For Papers"),
           ("/authors/call-for-workshops", "Call For Workshops"),
           ("/authors/call-for-tutorials", "Call For Tutorials"),
