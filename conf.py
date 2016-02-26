@@ -585,7 +585,7 @@ DEPLOY_COMMANDS = {
 #    'default': [
 #        "rsync -rav --delete output/ joe@my.site:/srv/www/site",
 #    ]
-    'test': [
+    'default': [
         "rsync -rav --delete output/ --exclude '.ht*' fracpete@gale.cms.waikato.ac.nz:/home/fracpete/public_html/acml2016",
     ]
 }
