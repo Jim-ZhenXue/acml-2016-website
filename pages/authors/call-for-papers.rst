@@ -32,6 +32,9 @@ appear in a special issue of the Springer journal Machine Learning.
 
 **Please note that submission arrangements for the two tracks are different.**
 
+Conference track
+++++++++++++++++
+
 For the conference track please submit your manuscript via CMT at:
 
 https://cmt3.research.microsoft.com/ACML2016
@@ -53,6 +56,9 @@ original manuscript.
 identifying detail - for example the authors' names below the title - will be
 rejected without review.**
 
+Journal track
++++++++++++++
+
 For the journal track please submit via Springer's Editorial Manager system at:
 
 https://www.editorialmanager.com/mach
@@ -68,6 +74,7 @@ There is no specific page limit for journal submissions, however **papers
 accepted to the journal track must still be presented at the conference in order to
 be published**, therefore it must be possible to describe at least the major
 parts of your submission in a talk of around 20 minutes duration.
+
 
 .. include:: pages/conference/important_dates.rst
 
