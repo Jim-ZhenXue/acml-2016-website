@@ -53,8 +53,8 @@ Local Arrangement Co-Chairs
 Steering Committee
 ==================
 
-* `Wray Buntine <http://nicta.com.au/people/buntinew>`__, 
-  National ICT Australia, Australia
+* `Wray Buntine <http://infotech.monash.edu.au/research/profiles/profile.html?sid=6245956&pid=10352>`__, 
+  Monash University, Australia
 * `Tom Dietterich <http://web.engr.oregonstate.edu/~tgd/>`__, 
   Oregon State University, USA
 * `Tu Bao Ho <http://www.jaist.ac.jp/~bao/>`__, 
