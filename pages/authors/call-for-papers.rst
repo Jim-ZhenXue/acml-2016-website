@@ -38,7 +38,7 @@ Conference track
 
 For the conference track please submit your manuscript via CMT at:
 
-https://cmt3.research.microsoft.com/ACML2016
+https://cmt.research.microsoft.com/ACML2016
 
 Papers will be published in a dedicated volume of the JMLR Workshop &
 Conference Proceedings. Manuscripts must be written in English, be a maximum of
