@@ -10,18 +10,65 @@
 Important Dates
 ---------------
 
-.. csv-table::
+.. raw:: html
 
-   "Workshop Proposal Deadline","May, 9 2016"
-   "Tutorial Proposal Deadline","May, 9 2016"
-   "Journal Submission Deadlines","March, 21 2016"
-   "","April, 4 2016"
-   "","April, 18 2016"
-   "","May, 2 2016"
-   "Early Submission Deadline","May 9, 2016"
-   "Early Notification Date","June 20, 2016"
-   "Final Submission Deadline","August, 15 2016"
-   "Final Notification Date","September, 26 2016"
-   "Conference Dates","Nov 16-18, 2016"
+   <style>
+   .cellborder {
+       border: 1px solid black;
+   }
+   .cellpadding {
+       padding: 3px;
+   }
+   </style>
+   <table class="cellborder">
+     <tr class="cellborder">
+       <td class="cellborder cellpadding" colspan="2">Workshop Proposal Deadline</td>
+       <td class="cellborder cellpadding">May, 9 2016</td>
+     </tr>
+     <tr class="cellborder">
+       <td class="cellborder cellpadding" colspan="2">Tutorial Proposal Deadline</td>
+       <td class="cellborder cellpadding">May, 9 2016</td>
+     </tr>
+     <tr class="cellborder">
+       <td class="cellpadding">Journal Submission Deadlines</td>
+       <td class="cellpadding">- 1st round</td>
+       <td class="cellborder cellpadding">March, 21 2016</td>
+     </tr>
+     <tr class="cellborder">
+       <td class="cellpadding"></td>
+       <td class="cellpadding">- 2nd round</td>
+       <td class="cellborder cellpadding">April, 4 2016</td>
+     </tr>
+     <tr class="cellborder">
+       <td class="cellpadding"></td>
+       <td class="cellpadding">- 3rd round</td>
+       <td class="cellborder cellpadding">April, 18 2016</td>
+     </tr>
+     <tr class="cellborder">
+       <td class="cellpadding"></td>
+       <td class="cellpadding">- Final round</td>
+       <td class="cellborder cellpadding">May, 2 2016</td>
+     </tr>
+     <tr class="cellborder">
+       <td class="cellborder cellpadding" colspan="2">Early Submission Deadline</td>
+       <td class="cellborder cellpadding">May 9, 2016</td>
+     </tr>
+     <tr class="cellborder">
+       <td class="cellborder cellpadding" colspan="2">Early Notification Date</td>
+       <td class="cellborder cellpadding">June 20, 2016</td>
+     </tr>
+     <tr class="cellborder">
+       <td class="cellborder cellpadding" colspan="2">Final Submission Deadline</td>
+       <td class="cellborder cellpadding">August, 15 2016</td>
+     </tr>
+     <tr class="cellborder">
+       <td class="cellborder cellpadding" colspan="2">Final Notification Date</td>
+       <td class="cellborder cellpadding">September, 26 2016</td>
+     </tr>
+     <tr class="cellborder">
+       <td class="cellborder cellpadding" colspan="2">Conference Dates</td>
+       <td class="cellborder cellpadding">Nov 16-18, 2016</td>
+     </tr>
+   </table>
 
 Deadlines are 23:59 Pacific Standard Time (PST)
