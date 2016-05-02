@@ -88,8 +88,7 @@ Submission Process
 ==================
 
 Proposals should be submitted by emailing the answers to the above points to
-both russel.pears@aut.ac.nz and yuy@nju.edu.cn. The email will be returned by
-a confirmation.
+the chairs: acml2016workshops@waikato.ac.nz
 
 
 Evaluation

@@ -49,8 +49,7 @@ breaks). A tutorial proposal should contain the following:
   publications in tutorial area.
 
 Proposals and questions should be submitted to Tutorial Co-chairs
-Ichiro Takeuchi takeuchi.ichiro@nitech.ac.jp and
-Bernhard Pfahringer bernhard@waikato.ac.nz.
+Ichiro Takeuchi and Bernhard Pfahringer: acml2016tutorials@waikato.ac.nz
 
 Important dates
 ===============
