@@ -19,8 +19,8 @@ topic. We are looking for half-day or full-day workshop proposals.
 Important Dates
 ===============
 
-* Workshop proposal deadline: **May 9, 2016**
-* Acceptance notification: **May 20, 2016** (early decision may be considered)
+* Workshop proposal deadline: **May 23, 2016**
+* Acceptance notification: **June 6, 2016** (early decision may be considered)
 * Workshop submissions due (suggested): **Aug. 31, 2016**
 * Workshop author notification (suggested): **Oct. 10, 2016**
 
