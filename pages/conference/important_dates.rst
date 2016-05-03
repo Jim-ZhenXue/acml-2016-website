@@ -23,11 +23,11 @@ Important Dates
    <table class="cellborder">
      <tr class="cellborder">
        <td class="cellborder cellpadding" colspan="2">Workshop Proposal Deadline</td>
-       <td class="cellborder cellpadding">May, 9 2016</td>
+       <td class="cellborder cellpadding">May, 23 2016</td>
      </tr>
      <tr class="cellborder">
        <td class="cellborder cellpadding" colspan="2">Tutorial Proposal Deadline</td>
-       <td class="cellborder cellpadding">May, 9 2016</td>
+       <td class="cellborder cellpadding">June, 30 2016</td>
      </tr>
      <tr class="cellborder">
        <td class="cellpadding">Journal Submission Deadlines</td>
