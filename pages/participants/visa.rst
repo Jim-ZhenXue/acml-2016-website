@@ -19,6 +19,14 @@ Please check the web site of `Immigration New Zealand
 <http://www.immigration.govt.nz/migrant/stream/visit/>`_ for specific visa
 requirements.
 
+**Notes**
+
+* Immigration New Zealand is aware of the conference, so please state
+  that you will be attending ACML 2016 to avoid any issues.
+* It is recommended to allow a minimum of 30 days lead in time to apply at 
+  your local New Zealand embassy or consulate.
+
+
 Invitation Letter for Visa Application
 --------------------------------------
 
