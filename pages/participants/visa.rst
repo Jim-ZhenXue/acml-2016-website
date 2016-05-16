@@ -16,8 +16,8 @@ New Zealand. Visitors from `visa-waiver countries
 required to obtain visas and can stay for up to three months.
 
 Please check the web site of `Immigration New Zealand
-<http://www.immigration.govt.nz/migrant/stream/visit/>`_ for specific visa
-requirements.
+<https://www.immigration.govt.nz/new-zealand-visas/options/visit>`_ 
+for specific visa requirements.
 
 **Notes**
 
