@@ -55,7 +55,7 @@ Important Dates
      </tr>
      <tr class="cellborder">
        <td class="cellborder cellpadding" colspan="2">Early Notification Date</td>
-       <td class="cellborder cellpadding">June 20, 2016</td>
+       <td class="cellborder cellpadding">June 27, 2016</td>
      </tr>
      <tr class="cellborder">
        <td class="cellborder cellpadding" colspan="2">Final Submission Deadline</td>
