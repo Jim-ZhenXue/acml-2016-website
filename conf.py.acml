@@ -169,6 +169,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ((
           ("/conference/committees", "Committees"),
+          ("/conference/workshops", "Workshops"),
           ("/conference/photos", "Photos"),
           ), "Conference"),
         ((
