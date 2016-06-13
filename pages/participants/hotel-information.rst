@@ -169,7 +169,7 @@ h2159-re2@accor.com
    :height: 16px
    :align: left
 
-:pprox NZD 165 per night based on 4 night stay using preferential code **EVENTZ**
+approx NZD 165 per night based on 4 night stay using preferential code: **EVENTZ**
 
 .. image:: ../../images/hotel.png
    :height: 16px
