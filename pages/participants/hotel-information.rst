@@ -25,6 +25,9 @@ College Hall is student accommodation on campus. Therefore it is only a stone's
 throw away from the conference venue. But it is also close to bus stops if you
 would want go to elsewhere.
 
+You can book this option when you are registering for the conference.
+
+
 More information
 ----------------
 
@@ -46,6 +49,12 @@ Accommodation and Conference Services
 
 conference@waikato.ac.nz
 
+.. image:: ../../images/money.png
+   :height: 16px
+   :align: left
+
+NZD 70.45 per night (incl breakfast and WiFi)
+
 .. image:: ../../images/hotel.png
    :height: 16px
    :align: left
@@ -60,7 +69,7 @@ Novotel Hamilton Tainui
    :height: 100px
    :align: right
 
-Novotel Tainui Hamilton is the only 4.5 star hotel in Hamilton. It is located
+Novotel Tainui Hamilton is the only 4.5 star hotel in Hamilton (`#5 of 63 according to TripAdvisor <https://www.tripadvisor.co.nz/Hotel_Review-g255108-d257124-Reviews-Novotel_Hamilton_Tainui-Hamilton_Waikato_Region_North_Island.html>`_). It is located
 in the heart of the Hamilton city centre, only minutes from shopping and
 entertainment. The preferred choice for business travellers, and an
 internationally recognised brand, Novotel Tainui Hamilton has 177 spacious,
@@ -103,7 +112,7 @@ h2159-re2@accor.com
    :height: 16px
    :align: left
 
-Preferential code for conference delegate rate: **EVENTZ**
+approx NZD 195 per night for 4 nights using preferential code: **EVENTZ**
 
 .. image:: ../../images/hotel.png
    :height: 16px
@@ -119,7 +128,7 @@ Ibis Hamilton Tainui
    :height: 100px
    :align: right
 
-Ibis Tainui Hamilton is Hamilton’s leading 3.5 star hotel. The hotel holds
+Ibis Tainui Hamilton is Hamilton’s leading 3.5 star hotel (`#8 of 63 according to TripAdvisor <https://www.tripadvisor.co.nz/Hotel_Review-g255108-d664587-Reviews-Ibis_Hamilton_Tainui-Hamilton_Waikato_Region_North_Island.html>`_). The hotel holds
 prime position overlooking the Waikato River and is a stone’s throw from the
 city’s restaurants, bars and shopping.
 
@@ -160,7 +169,7 @@ h2159-re2@accor.com
    :height: 16px
    :align: left
 
-Preferential code for conference delegate rate: **EVENTZ**
+approx NZD 165 per night for 4 nights using preferential code: **EVENTZ**
 
 .. image:: ../../images/hotel.png
    :height: 16px

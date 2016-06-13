@@ -34,14 +34,14 @@ Registration Fees
 .. csv-table:: 
    :header: "","Regular (Early/Regular/Late)","Student (Early/Regular/Late)"
 
-   "**All-inclusive**","USD 500 / USD 550 / USD 700","USD 250 / USD 300 / USD 500"
+   "**All-inclusive**","NZD 710 / NZD 780 / NZD 990","NZD 355 / NZD 430 / NZD 710"
    "","**Includes** the registration for the Main Conference on November 17-18, Workshops and Tutorials on November 16, Welcome Reception, Conference dinner, coffee breaks, and lunches on November 17-18 (Main Conference).","**Includes** the registration for the Main Conference on November 21-22, Workshops and Tutorials on November 16, Welcome Reception, coffee breaks, and lunches on November 21-22 (Main Conference). Conference Dinner Ticket sold separately at a special price for Student Registrants."
-   "Workshops / Tutorials for 1 day","USD 150 / USD 175","USD 100 / USD 105"
+   "Workshops / Tutorials for 1 day","NZD 210 / NZD 245","NZD 140 / NZD 150"
    "","**Includes** the access to the Workshops and Tutorials on November 16, and coffee breaks.","**Includes** the access to the Workshops and Tutorials on November 16, and coffee breaks."
 
 **Notes:**
 
-* All registration fees are in US Dollars.
+* All registration fees are in NZ Dollars.
 * **Late** is considered payment on the day
 * For Student Registration, you **MUST** be a full-time student at the time of the conference in November 2016 (not the time of paper submission). An official and valid student ID from a full-time enrolled institution must be scanned and sent to acml2016@waikato.ac.nz with a subject heading, **"ACML2016 Student Registration"** by the time of registration.
 
