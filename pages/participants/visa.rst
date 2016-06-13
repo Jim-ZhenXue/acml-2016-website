@@ -12,8 +12,8 @@ Zealand must hold a passport that is valid for at least three months after the
 planned departure date from New Zealand, or one month past the date you intend
 to leave if the government issuing your passport has consular representation in
 New Zealand. Visitors from `visa-waiver countries
-<http://glossary.immigration.govt.nz/visafreecountries.htm>`_ are not
-required to obtain visas and can stay for up to three months.
+<https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/visa-waiver>`_ 
+are not required to obtain visas and can stay for up to three months.
 
 Please check the web site of `Immigration New Zealand
 <https://www.immigration.govt.nz/new-zealand-visas/options/visit>`_ 
