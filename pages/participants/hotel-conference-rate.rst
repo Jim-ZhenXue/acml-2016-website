@@ -1,7 +1,7 @@
 .. title: Hotel Conference Rate
 .. slug: hotel-conference-rate
 .. date: 2015-12-10 10:10:18 UTC+13:00
-.. tags: draft
+.. tags: 
 .. category: 
 .. link: 
 .. description: 

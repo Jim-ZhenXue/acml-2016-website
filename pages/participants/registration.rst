@@ -1,7 +1,7 @@
 .. title: Registration
 .. slug: registration
 .. date: 2015-12-10 10:10:05 UTC+13:00
-.. tags: draft
+.. tags: 
 .. category: 
 .. link: 
 .. description: 
@@ -17,11 +17,16 @@
 Important Dates
 ===============
 
-+--------------------------------------------------+-----+
-| Early Bird Registration deadline                 | TBA |
-+--------------------------------------------------+-----+
-| Authors of accepted papers registration deadline | TBA | 
-+--------------------------------------------------+-----+
++--------------------------------------------------+-------------------+
+| Early Bird Registration deadline                 | October 31, 2016  |
++--------------------------------------------------+-------------------+
+| Regular Registration deadline                    | November 15, 2016 |
++--------------------------------------------------+-------------------+
+| Late (or in person) Registration deadline        | November 16, 2016 |
++--------------------------------------------------+-------------------+
+
+Deadlines are 23:59 New Zealand Time on the day
+
 
 Registration Fees
 =================
@@ -44,16 +49,18 @@ Registration Fees
 Additional Items
 ================
 
-* Extra Conference Dinner Tickets for accompanying persons: USD ???
-* Extra Conference Dinner Ticket for student registrant: USD ???
+* Extra Conference Dinner Ticket for accompanying persons: NZD 150
+* Extra Conference Dinner Ticket for student registrant: NZD 150
+
+These tickets include transport to and fro the dinner venue.
 
 
 Author Policy
 =============
 
 * Each accepted proceedings paper must have at least one author registered
-  (either All-Inclusive Regular or Student Registration) by October ??, 2016 at
-  23:59pm Pacific Time.
+  (either All-Inclusive Regular or Student Registration) by October 31, 2016 at
+  23:59pm New Zealand Time.
 * Each paper should have at least **ONE** Author registered.
 
 
@@ -61,9 +68,9 @@ Cancellation Policy
 ===================
 
 * It is possible to transfer registration to another person if you can no
-  longer attend the conference until November ??, 2016 at 23:59pm Pacific Time.
+  longer attend the conference until October 31st, 2016 at 23:59pm New Zealand Time.
 * 50% of the registration fee can be refunded for cancellation requests made on
-  or before November ??, 2016 at 23:59pm Pacific Time.
-* No refund will be made for cancellation requests made after November ??, 2016.
+  or before October 31st, 2016 at 23:59pm New Zealand Time.
+* No refund will be made for cancellation requests made after October 31st, 2016.
 * The service fee and bank charge are non-refundable.
 

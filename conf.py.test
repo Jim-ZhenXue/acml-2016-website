@@ -178,6 +178,13 @@ NAVIGATION_LINKS = {
           ("/authors/call-for-tutorials", "Call For Tutorials"),
           ), "Authors & Contributors"),
         ((
+          ("/participants/visa", "Visa"),
+          ("/participants/registration", "Registration"),
+          ("/participants/conference-venue", "Conference Venue"),
+          ("/participants/hotel-information", "Hotel Information"),
+          ("/participants/travel-information", "Travel Information"),
+          ), "Participants"),
+        ((
           ("http://acml-conf.org/", "Past Conferences"),
           ("/misc/contact-information", "Contact Information"),
           ("/misc/about-hamilton", "About Hamilton"),
