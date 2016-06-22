@@ -10,6 +10,8 @@
 Important Dates
 ---------------
 
+**Submissions to the conference track will reopen on Monday July 4th.**
+
 .. raw:: html
 
    <style>

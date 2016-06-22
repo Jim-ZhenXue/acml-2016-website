@@ -40,6 +40,8 @@ For the conference track please submit your manuscript via CMT at:
 
 https://cmt.research.microsoft.com/ACML2016
 
+**Submissions to the conference track will reopen on Monday July 4th.**
+
 Please be aware that ACML runs two submission rounds to the conference track:
 The first round can result in an Accept, Reject or Conditional Acceptance (i.e.
 subject to changes made by the second round) decision. There is no author
