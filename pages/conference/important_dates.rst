@@ -10,8 +10,6 @@
 Important Dates
 ---------------
 
-**Submissions to the conference track will reopen on Monday July 4th.**
-
 .. raw:: html
 
    <style>
@@ -58,6 +56,10 @@ Important Dates
      <tr class="cellborder">
        <td class="cellborder cellpadding" colspan="2">Early Notification Date</td>
        <td class="cellborder cellpadding">June 27, 2016</td>
+     </tr>
+     <tr class="cellborder">
+       <td class="cellborder cellpadding" colspan="2">Submissions to conference track reopen</td>
+       <td class="cellborder cellpadding">July, 4 2016</td>
      </tr>
      <tr class="cellborder">
        <td class="cellborder cellpadding" colspan="2">Final Submission Deadline</td>
