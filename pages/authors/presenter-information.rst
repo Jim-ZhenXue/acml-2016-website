@@ -9,6 +9,14 @@
 
 ...general information...
 
+Recordings
+----------
+
+All presentations will be recorded in order to make them available later for
+public viewing. However, it is possible to opt out. If that should be the
+case then please let the session chair know on the day of your presentation.
+
+
 Poster
 ------
 
