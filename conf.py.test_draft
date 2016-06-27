@@ -147,6 +147,7 @@ NAVIGATION_LINKS = {
           ("/authors/call-for-workshops", "Call For Workshops"),
           ("/authors/call-for-tutorials", "Call For Tutorials"),
           ("/authors/paper-submission", "Paper Submission"),
+          ("/authors/presenter-information", "Presenter Information"),
           ("/authors/camera-ready-instructions", "Camera Ready Instructions"),
           ), "Authors & Contributors"),
         ((
