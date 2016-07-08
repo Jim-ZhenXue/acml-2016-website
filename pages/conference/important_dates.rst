@@ -54,12 +54,12 @@ Important Dates
        <td class="cellborder cellpadding">May, 9 2016</td>
      </tr>
      <tr class="cellborder">
-       <td class="cellborder cellpadding" colspan="2">Early Notification Date</td>
+       <td class="cellborder cellpadding" colspan="2">Submissions to conference track reopen</td>
        <td class="cellborder cellpadding">July, 4 2016</td>
      </tr>
      <tr class="cellborder">
-       <td class="cellborder cellpadding" colspan="2">Submissions to conference track reopen</td>
-       <td class="cellborder cellpadding">July, 4 2016</td>
+       <td class="cellborder cellpadding" colspan="2">Early Notification Date</td>
+       <td class="cellborder cellpadding">July, 11-12 2016</td>
      </tr>
      <tr class="cellborder">
        <td class="cellborder cellpadding" colspan="2">Final Submission Deadline</td>
