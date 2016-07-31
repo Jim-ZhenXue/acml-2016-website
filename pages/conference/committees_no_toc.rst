@@ -58,22 +58,13 @@ Steering Committee
 * `Tom Dietterich <http://web.engr.oregonstate.edu/~tgd/>`__, 
   Oregon State University, USA
 * `Tu Bao Ho <http://www.jaist.ac.jp/~bao/>`__, 
-  Co-chair, Japan Advanced Institute of Science and Technology, Japan
+  Japan Advanced Institute of Science and Technology, Japan
 * `Wee Sun Lee <http://www.comp.nus.edu.sg/~leews/>`__, 
   National University of Singapore, Singapore
 * `Chih-Jen Lin <http://www.csie.ntu.edu.tw/~cjlin/>`__, 
   National Taiwan University, Taiwan
-* `Bernhard Pfahringer <http://www.cs.waikato.ac.nz/~bernhard/>`__, 
-  Waikato University, New Zealand
 * `Masashi Sugiyama <http://www.ms.k.u-tokyo.ac.jp/index.html>`__, 
-  The University of Tokyo, Japan
-* `Takashi Washio <http://www.ar.sanken.osaka-u.ac.jp/~washio/washpreg.html>`__, 
-  Osaka University, Japan
-* `Geoff Webb <http://www.infotech.monash.edu.au/research/profiles/profile.html?sid=4540&pid=122>`__, 
-  Monash University, Australia
-* `Qiang Yang <http://www.cs.ust.hk/~qyang/>`__, 
-  Hong Kong University of Science and Technology, Hong Kong
+  Co-Chair, The University of Tokyo, Japan
 * `Zhi-Hua Zhou <http://cs.nju.edu.cn/zhouzh/>`__, 
   Chair, Nanjing University, China
-
 
