@@ -64,7 +64,7 @@ Steering Committee
 * `Chih-Jen Lin <http://www.csie.ntu.edu.tw/~cjlin/>`__, 
   National Taiwan University, Taiwan
 * `Masashi Sugiyama <http://www.ms.k.u-tokyo.ac.jp/index.html>`__, 
-  Co-Chair, The University of Tokyo, Japan
+  Co-Chair, RIKEN/The University of Tokyo, Japan
 * `Zhi-Hua Zhou <http://cs.nju.edu.cn/zhouzh/>`__, 
   Chair, Nanjing University, China
 
