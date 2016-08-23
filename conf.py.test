@@ -136,8 +136,8 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          ("/conference/program", "Program"),
 #          ("/conference/accepted-papers", "Accepted Papers"),
 #          ("/conference/speakers", "Speakers"),
-#          ("/conference/tutorials", "Tutorials"),
 #          ("/conference/workshops", "Workshops"),
+#          ("/conference/tutorials", "Tutorials"),
 #          ("/conference/committees", "Committees"),
 #          ("/conference/sponsors", "Sponsors"),
 #          ("/conference/photos", "Photos"),
@@ -171,6 +171,7 @@ NAVIGATION_LINKS = {
         ((
           ("/conference/committees", "Committees"),
           ("/conference/workshops", "Workshops"),
+          ("/conference/tutorials", "Tutorials"),
           ("/conference/photos", "Photos"),
           ), "Conference"),
         ((

@@ -136,8 +136,8 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          ("/conference/program", "Program"),
 #          ("/conference/accepted-papers", "Accepted Papers"),
 #          ("/conference/speakers", "Speakers"),
-#          ("/conference/tutorials", "Tutorials"),
 #          ("/conference/workshops", "Workshops"),
+#          ("/conference/tutorials", "Tutorials"),
 #          ("/conference/committees", "Committees"),
 #          ("/conference/sponsors", "Sponsors"),
 #          ("/conference/photos", "Photos"),
@@ -147,6 +147,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          ("/authors/call-for-workshops", "Call For Workshops"),
 #          ("/authors/call-for-tutorials", "Call For Tutorials"),
 #          ("/authors/paper-submission", "Paper Submission"),
+#          ("/authors/presenter-information", "Presenter Information"),
 #          ("/authors/camera-ready-instructions", "Camera Ready Instructions"),
 #          ), "Authors & Contributors"),
 #        ((
@@ -161,6 +162,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          ("http://acml-conf.org/", "Past Conferences"),
 #          ("/misc/contact-information", "Contact Information"),
 #          ("/misc/about-hamilton", "About Hamilton"),
+#          ("/ACML2016_flyer_small.pdf", "Conference flyer (PDF)"),
 #          ), "Misc"),
 #    ),
 #}
@@ -168,6 +170,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ((
           ("/conference/committees", "Committees"),
+          ("/conference/workshops", "Workshops"),
+          ("/conference/tutorials", "Tutorials"),
           ("/conference/photos", "Photos"),
           ), "Conference"),
         ((
@@ -176,9 +180,17 @@ NAVIGATION_LINKS = {
           ("/authors/call-for-tutorials", "Call For Tutorials"),
           ), "Authors & Contributors"),
         ((
+          ("/participants/visa", "Visa"),
+          ("/participants/registration", "Registration"),
+          ("/participants/conference-venue", "Conference Venue"),
+          ("/participants/hotel-information", "Hotel Information"),
+          ("/participants/travel-information", "Travel Information"),
+          ), "Participants"),
+        ((
           ("http://acml-conf.org/", "Past Conferences"),
           ("/misc/contact-information", "Contact Information"),
           ("/misc/about-hamilton", "About Hamilton"),
+          ("/ACML2016_flyer_small.pdf", "Conference flyer (PDF)"),
           ), "Misc"),
     ),
 }
