@@ -21,6 +21,10 @@ More details can be found `here <link://slug/hotel-conference-rate>`__.
 College Hall
 ============
 
+.. image:: ../../images/college_hall.jpg
+   :height: 100px
+   :align: right
+
 College Hall is student accommodation on campus. Therefore it is only a stone's
 throw away from the conference venue. But it is also close to bus stops if you
 would want go to elsewhere.
@@ -59,7 +63,7 @@ NZD 70.45 per night (incl breakfast and WiFi)
    :height: 16px
    :align: left
 
-http://www.waikato.ac.nz/sasd/acso/hor_collegehall.shtml
+http://www.waikato.ac.nz/conferences-events/accommodation
 
 
 Novotel Hamilton Tainui

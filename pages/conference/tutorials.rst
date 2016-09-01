@@ -31,6 +31,8 @@ distributed machine learning platforms, such as Spark MlLib, DMTK, Tensorflow,
 to parallelize a given machine learning algorithm, in order to give the
 audience some practical guidelines on this topic.
 
+`Tutorial homepage <http://www.dmtk.io/tutorial_on_acml2016.html>`__
+
 
 Bayesian Nets from the ground up
 ================================
