@@ -82,6 +82,8 @@ follows:
 
 This tutorial draws upon recent work on mass estimation and previous work which was also mass- based but was incorrectly categorised as density-based.
 
+`Tutorial homepage <http://mass-estimation.sourceforge.net/ACML2016Tutorial/>`__
+
 
 Deep Approaches to Semantic Matching for Text
 =============================================
