@@ -88,7 +88,7 @@ This tutorial draws upon recent work on mass estimation and previous work which 
 Deep Approaches to Semantic Matching for Text
 =============================================
 
-**Yanyan Lan, Jiafeng Guo, Jun Xu**
+**Yanyan Lan, Jiafeng Guo**
 
 Semantic matching is critical in many text applications, including paraphrase
 identification, information retrieval, question answering, and machine
