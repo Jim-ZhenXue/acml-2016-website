@@ -67,7 +67,7 @@ Important Dates
      </tr>
      <tr class="cellborder">
        <td class="cellborder cellpadding" colspan="2">Final Notification Date</td>
-       <td class="cellborder cellpadding">September, 26 2016</td>
+       <td class="cellborder cellpadding">October, 4 2016</td>
      </tr>
      <tr class="cellborder">
        <td class="cellborder cellpadding" colspan="2">Conference Dates</td>
