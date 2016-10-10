@@ -40,6 +40,7 @@ And the following information:
 * Your name as it appears in your passport
 * Your position
 * Your affiliation/organization
+* Your postal address (incl. your affiliation/organization)
 * Your registration email address
 * Registration ID (the invitation letter for visa application will only be
   issued to registered participant)
