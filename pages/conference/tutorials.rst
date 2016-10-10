@@ -103,4 +103,5 @@ bridging the word level semantic gap and conducting sentence level end-to-end
 semantic matching. We will also discuss the potential applications and future
 directions of semantic matching for text.
 
+`Tutorial homepage <http://www.bigdatalab.ac.cn/tutorial/>`__
 
