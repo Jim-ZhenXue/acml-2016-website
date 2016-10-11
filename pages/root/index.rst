@@ -49,12 +49,11 @@ The confirmed speakers are:
   | Professor and Director of the Centre for Computational Statistics and Machine Learning at University College London, 
   | and scientific coordinator of the EU Framework VI Network of Excellence in Pattern Analysis, Statistical Modelling and Computational Learning (PASCAL).
 
-* `Vincent Tseng <http://idb.csie.ncku.edu.tw/tsengsm/>`__ - *keynote*
+* `Vincent S. Tseng <http://people.cs.nctu.edu.tw/~vtseng/>`__ - *keynote*
 
   | Distinguished Professor
-  | Dept. Computer Science and Information Engineering
-  | Institute of Medical Informatics
-  | National Cheng Kung University, Tainan, Taiwan, R.O.C.
+  | Department of Computer Science
+  | National Chiao Tung University, Hsinchu, Taiwan
 
 * `Tie-Yan Liu <http://research.microsoft.com/en-us/people/tyliu/>`__ - *invited*
 
