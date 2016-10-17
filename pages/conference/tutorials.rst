@@ -50,6 +50,8 @@ bayesian nonparametric extensions. By the end of the tutorial you should have a
 gasp on the theory underpinning Bayes nets, how to build your own models, and
 how to infer them. 
 
+`Tutorial homepage <http://pgm-tutorial.org/>`__
+
 
 Mass Estimation: Enabling density-based or distance-based algorithms to do what they cannot do
 ==============================================================================================
