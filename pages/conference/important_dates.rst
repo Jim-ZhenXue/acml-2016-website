@@ -1,7 +1,7 @@
 .. title: Important Dates
 .. slug: important-dates
 .. date: 2015-12-10 10:09:26 UTC+13:00
-.. tags: draft
+.. tags: 
 .. category: 
 .. link: 
 .. description: 
