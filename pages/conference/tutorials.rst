@@ -10,6 +10,40 @@
 .. contents::
 
 
+Mass Estimation: Enabling density-based or distance-based algorithms to do what they cannot do
+==============================================================================================
+
+**Kai Ming Ting**
+
+This tutorial provides an overview of mass estimation, an alternative data
+modelling mechanism to density estimation; and details how it can overcome
+fundamental weaknesses of density-based or distance-based algorithms to enable
+them to do what they cannot do previously.
+
+Mass estimation is attractive because the basic measure, mass, is not only more
+fundamental than density, but also more versatile---mass can be used to do
+density estimation, as a means for subspace selection and to find
+multi-dimensional median, and can be extended to measure dissimilarity of any
+two points. Example advantages of mass over density or distance are given as
+follows:
+
+* DEMass--Density estimator based on mass--runs orders of magnitude faster than
+  kernel and kNN density estimators
+* Mass has been used, in place of density, as an effective means for subspace
+  selection.
+* Half-space mass is the maximally robust and efficient method to find
+  multi-dimensional median. Existing methods such as data depth are either less
+  robust or computationally more expensive.
+* Simply replacing mass-based dissimilarity (a data dependent measure) with
+  distance measure (a data independent measure) overcomes key weaknesses of
+  density-based and distance-based methods in clustering, anomaly detection,
+  information retrieval and classification.
+
+This tutorial draws upon recent work on mass estimation and previous work which was also mass- based but was incorrectly categorised as density-based.
+
+`Tutorial homepage <http://mass-estimation.sourceforge.net/ACML2016Tutorial/>`__
+
+
 Recent Advances in Distributed Machine Learning
 ===============================================
 
@@ -51,40 +85,6 @@ gasp on the theory underpinning Bayes nets, how to build your own models, and
 how to infer them. 
 
 `Tutorial homepage <http://pgm-tutorial.org/>`__
-
-
-Mass Estimation: Enabling density-based or distance-based algorithms to do what they cannot do
-==============================================================================================
-
-**Kai Ming Ting**
-
-This tutorial provides an overview of mass estimation, an alternative data
-modelling mechanism to density estimation; and details how it can overcome
-fundamental weaknesses of density-based or distance-based algorithms to enable
-them to do what they cannot do previously.
-
-Mass estimation is attractive because the basic measure, mass, is not only more
-fundamental than density, but also more versatile---mass can be used to do
-density estimation, as a means for subspace selection and to find
-multi-dimensional median, and can be extended to measure dissimilarity of any
-two points. Example advantages of mass over density or distance are given as
-follows:
-
-* DEMass--Density estimator based on mass--runs orders of magnitude faster than
-  kernel and kNN density estimators
-* Mass has been used, in place of density, as an effective means for subspace
-  selection.
-* Half-space mass is the maximally robust and efficient method to find
-  multi-dimensional median. Existing methods such as data depth are either less
-  robust or computationally more expensive.
-* Simply replacing mass-based dissimilarity (a data dependent measure) with
-  distance measure (a data independent measure) overcomes key weaknesses of
-  density-based and distance-based methods in clustering, anomaly detection,
-  information retrieval and classification.
-
-This tutorial draws upon recent work on mass estimation and previous work which was also mass- based but was incorrectly categorised as density-based.
-
-`Tutorial homepage <http://mass-estimation.sourceforge.net/ACML2016Tutorial/>`__
 
 
 Deep Approaches to Semantic Matching for Text

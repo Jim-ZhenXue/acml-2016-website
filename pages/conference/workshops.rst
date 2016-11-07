@@ -46,6 +46,71 @@ Links
 * `Workshop homepage <http://www.contrib.andrew.cmu.edu/~paweng/AWRL2016/>`__
 
 
+First New Zealand Text Mining Workshop
+======================================
+
+Motivation and Objectives
+-------------------------
+
+In recent times, there has been an astronomical surge in demand for data
+scientists with Harvard Business Review naming Data Scientist as *The Sexiest
+Job of the 21st Century*.
+
+The workshop will aim to foster collaboration among Data Science academics and
+practitioners focussing on text data. We have reached a point in Data Science
+where there is an increasing demand to integrate information from text data
+into models. This workshop calls for recent advances made both in the area of
+theoretical Text Processing dealing with lower level algorithms as well
+applications in Text Mining. The workshop aims to foster collaboration between
+academic researchers and practitioners so that the two groups could be able to
+integrate new advances in approaches into real world innovations being worked
+on by the practitioners.
+
+Topics of Interest
+------------------
+
+Papers are solicited from the following list of topics, however papers dealing
+with any aspect of Natural Language Processing, Text Processing and Text Mining
+are welcome.
+
+* Topic detection/Modelling
+* Sentiment detection
+* Language modelling
+* Social Media text processing
+* Information Extraction
+* Summarization
+* Knowledge based Predictive models
+* Knowledge Representation
+* Linked Data Development/Applications
+* Parsing, NER, POS tagging
+* Pragmatics Discourse Semantics
+* Lexicon Development
+* Natural Language Generation
+
+Submission Guidelines
+---------------------
+
+Paper submission and reviewing for this workshop will be electronic via
+EasyChair. The papers should be written in English, following the Springer LNCS
+format, and be submitted in **PDF** on or before **Sept. 30, 2016**.
+
+The following types of contributions are welcome. The recommended page length
+is given in brackets. There is no strict page limit but the length of a paper
+should be commensurate with its contribution.
+
+* Full research papers (8-12 pages);
+* Short research papers (4-6 pages);
+* System papers (4-6 pages).
+
+Accepted papers will be published as a volume in the CEUR Workshop Proceedings
+series.
+
+Links
+-----
+
+* `Workshop homepage <http://tmg.aut.ac.nz/tmnz2016/>`__
+
+
 ACML Workshop on Learning on Big Data
 =====================================
 
@@ -113,69 +178,4 @@ Links
 
 * `Workshop homepage <https://sites.google.com/site/acmlworkshoponbigdata/>`__
 * `Call for Papers <https://sites.google.com/site/acmlworkshoponbigdata/call-for-papers>`__
-
-
-First New Zealand Text Mining Workshop
-======================================
-
-Motivation and Objectives
--------------------------
-
-In recent times, there has been an astronomical surge in demand for data
-scientists with Harvard Business Review naming Data Scientist as *The Sexiest
-Job of the 21st Century*.
-
-The workshop will aim to foster collaboration among Data Science academics and
-practitioners focussing on text data. We have reached a point in Data Science
-where there is an increasing demand to integrate information from text data
-into models. This workshop calls for recent advances made both in the area of
-theoretical Text Processing dealing with lower level algorithms as well
-applications in Text Mining. The workshop aims to foster collaboration between
-academic researchers and practitioners so that the two groups could be able to
-integrate new advances in approaches into real world innovations being worked
-on by the practitioners.
-
-Topics of Interest
-------------------
-
-Papers are solicited from the following list of topics, however papers dealing
-with any aspect of Natural Language Processing, Text Processing and Text Mining
-are welcome.
-
-* Topic detection/Modelling
-* Sentiment detection
-* Language modelling
-* Social Media text processing
-* Information Extraction
-* Summarization
-* Knowledge based Predictive models
-* Knowledge Representation
-* Linked Data Development/Applications
-* Parsing, NER, POS tagging
-* Pragmatics Discourse Semantics
-* Lexicon Development
-* Natural Language Generation
-
-Submission Guidelines
----------------------
-
-Paper submission and reviewing for this workshop will be electronic via
-EasyChair. The papers should be written in English, following the Springer LNCS
-format, and be submitted in **PDF** on or before **Sept. 30, 2016**.
-
-The following types of contributions are welcome. The recommended page length
-is given in brackets. There is no strict page limit but the length of a paper
-should be commensurate with its contribution.
-
-* Full research papers (8-12 pages);
-* Short research papers (4-6 pages);
-* System papers (4-6 pages).
-
-Accepted papers will be published as a volume in the CEUR Workshop Proceedings
-series.
-
-Links
------
-
-* `Workshop homepage <http://tmg.aut.ac.nz/tmnz2016/>`__
 
