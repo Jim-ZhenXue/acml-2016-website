@@ -35,6 +35,12 @@ Proceedings <http://jmlr.csail.mit.edu/proceedings/>`__ series, or to the
 the `Springer journal Machine Learning <http://www.springer.com/computer/ai/journal/10994>`__.
 
 
+Announcement
+------------
+
+* List of accepted papers is available `here <link://slug/accepted-papers>`__.
+
+
 Speakers
 --------
 
