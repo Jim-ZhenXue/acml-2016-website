@@ -9,8 +9,9 @@
 
 .. contents::
 
-* Pre-Conference Message
-* Program booklet
+.. * Pre-Conference Message
+
+* `Program booklet </ACML2016_program.pdf>`__
 * Wed, November 16, 2016: `Tutorials and Workshops <wednesday_>`_
 * Thu, November 17, 2016: `Main conference <thursday_>`_
 * Fri, November 18, 2016: `Main conference <friday_>`_
@@ -384,7 +385,7 @@ Thursday: Main conference
      
      <tr>
        <td>&nbsp;</td>
-       <td>ACML 2016 Banquet Dinner (bus will pick up attendees at 10pm)</td>
+       <td>ACML 2016 Banquet Dinner (return bus will pick up attendees at 9:30&nbsp;pm)</td>
      </tr>
    </table>
 

@@ -38,6 +38,26 @@ the `Springer journal Machine Learning <http://www.springer.com/computer/ai/jour
 Announcement
 ------------
 
+* Congratulations to our best paper winners, a special session on the second
+  day has been reserved for their talks (see `here <conference/program/#friday>`__ for program):
+
+  * **Unifying Topic, Sentiment & Preference in an HDP-Based Rating Regression Model for Online Reviews**
+
+    Zheng Chen, Yong Zhang , Yue Shang , Xiaohua Hu
+
+  * **Simulation and Calibration of a Fully Bayesian Marked Multidimensional Hawkes Process with Dissimilar Decays**
+
+    Kar Wai Lim, Young Lee, Leif Hanlen, Hongbiao Zhao
+
+  * **A Bayesian Nonparametric Approach for Multi-label Classification**
+
+    Vu Nguyen, Sunil Gupta, Santu Rana, Cheng Li, Svetha Venkatesh
+
+  * **Hierarchical Probabilistic Matrix Factorization with Network Topology for Multi-relational Social Network**
+
+    Haoli Bai, Zenglin Xu, Bin Liu, Yingming Li
+
+* The conference program is now available `here <link://slug/program>`__.
 * List of accepted papers is available `here <link://slug/accepted-papers>`__.
 
 
@@ -48,7 +68,7 @@ Speakers
    :width: 200px
    :align: right
 
-The confirmed speakers are:
+The confirmed `speakers <link://slug/speakers>`__ are:
 
 * `John Shawe-Taylor <http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/>`__ - *keynote*
 
@@ -61,16 +81,16 @@ The confirmed speakers are:
   | Department of Computer Science
   | National Chiao Tung University, Hsinchu, Taiwan
 
+* `Albert Bifet <http://albertbifet.com/>`__ - *invited*
+
+  | Associate Professor in Big Data at Telecom ParisTech, Universite Paris-Saclay 
+  | and Honorary Research Associate at University of Waikato.
+
 * `Tie-Yan Liu <http://research.microsoft.com/en-us/people/tyliu/>`__ - *invited*
 
   | Principal researcher at Microsoft Research China, 
   | adjunct professor at Carnegie Mellon University (LTI), 
   | and an honorary professor at University of Nottingham.
-
-* `Albert Bifet <http://albertbifet.com/>`__ - *invited*
-
-  | Associate Professor in Big Data at Telecom ParisTech, Universite Paris-Saclay 
-  | and Honorary Research Associate at University of Waikato.
 
 
 Venue
