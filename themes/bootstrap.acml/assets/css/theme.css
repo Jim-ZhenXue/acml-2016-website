@@ -213,3 +213,71 @@ article.post-micro {
   background-color: #fee;
 }
 
+.table-program-workshops td {
+  padding: 5px;
+  border: 1px solid #ccc;
+  vertical-align: top;
+}
+.table-program-workshops th {
+  background-color: #ddd;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+.table-program-workshops tr:nth-child(odd) {
+  background-color: #ddd;
+}
+.table-program-workshops tr:nth-child(even) {
+  background-color: #eee;
+}
+.table-program-workshops ul {
+  padding-left: 15px;
+}
+
+.table-program-main td {
+  padding: 5px;
+  border: 1px solid #ccc;
+  vertical-align: top;
+}
+.table-program-main th {
+  background-color: #ddd;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+.table-program-main tr:nth-child(odd) {
+  background-color: #eee;
+}
+.table-program-main tr:nth-child(even) {
+  background-color: #ddd;
+}
+.table-program-main ul {
+  padding-left: 15px;
+}
+
+/* time */
+.time {
+  text-align: right;
+}
+
+/* room colors */
+.room-s101 {
+  background-color: #CACA6E;
+}
+.room-s102 {
+  background-color: #F8B989;
+}
+.room-s103 {
+  background-color: #CD6F6E;
+}
+.room-s104 {
+  background-color: #D3A3CB;
+}
+.room-s105 {
+  background-color: #8BC1E6;
+}
+.room-s101 a,
+.room-s102 a,
+.room-s103 a,
+.room-s104 a,
+.room-s105 a {
+  color: #000;
+}
