@@ -70,23 +70,23 @@ Speakers
 
 The confirmed `speakers <link://slug/speakers>`__ are:
 
-* `John Shawe-Taylor <http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/>`__ - *keynote*
+* `John Shawe-Taylor <conference/speakers/#structured-output-learning-with-a-margin>`__ - *keynote*
 
   | Professor and Director of the Centre for Computational Statistics and Machine Learning at University College London, 
   | and scientific coordinator of the EU Framework VI Network of Excellence in Pattern Analysis, Statistical Modelling and Computational Learning (PASCAL).
 
-* `Vincent S. Tseng <http://people.cs.nctu.edu.tw/~vtseng/>`__ - *keynote*
+* `Vincent S. Tseng <conference/speakers/#big-data-learning-for-interdisciplinary-applications-in-depth-view-of-some-key-challenges>`__ - *keynote*
 
   | Distinguished Professor
   | Department of Computer Science
   | National Chiao Tung University, Hsinchu, Taiwan
 
-* `Albert Bifet <http://albertbifet.com/>`__ - *invited*
+* `Albert Bifet <conference/speakers/#massive-online-analytics-for-the-internet-of-things-iot>`__ - *invited*
 
   | Associate Professor in Big Data at Telecom ParisTech, Universite Paris-Saclay 
   | and Honorary Research Associate at University of Waikato.
 
-* `Tie-Yan Liu <http://research.microsoft.com/en-us/people/tyliu/>`__ - *invited*
+* `Tie-Yan Liu <http://www.cms.waikato.ac.nz/~fracpete/acml2016/conference/speakers/#tackling-big-data-and-big-model-challenges-of-deep-learning>`__ - *invited*
 
   | Principal researcher at Microsoft Research China, 
   | adjunct professor at Carnegie Mellon University (LTI), 
