@@ -169,6 +169,8 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ((
+          ("/conference/program", "Program"),
+          ("/conference/accepted-papers", "Accepted Papers"),
           ("/conference/committees", "Committees"),
           ("/conference/workshops", "Workshops"),
           ("/conference/tutorials", "Tutorials"),
