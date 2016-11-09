@@ -171,6 +171,7 @@ NAVIGATION_LINKS = {
         ((
           ("/conference/program", "Program"),
           ("/conference/accepted-papers", "Accepted Papers"),
+          ("/conference/speakers", "Speakers"),
           ("/conference/committees", "Committees"),
           ("/conference/workshops", "Workshops"),
           ("/conference/tutorials", "Tutorials"),
