@@ -41,19 +41,19 @@ Announcement
 * Congratulations to our best paper winners, a special session on the second
   day has been reserved for their talks (see `here <conference/program/#friday>`__ for program):
 
-  * **Unifying Topic, Sentiment & Preference in an HDP-Based Rating Regression Model for Online Reviews**
+  * **Best Paper:** *Unifying Topic, Sentiment & Preference in an HDP-Based Rating Regression Model for Online Reviews*
 
     Zheng Chen, Yong Zhang , Yue Shang , Xiaohua Hu
 
-  * **Simulation and Calibration of a Fully Bayesian Marked Multidimensional Hawkes Process with Dissimilar Decays**
+  * **Best Student Paper:** *Simulation and Calibration of a Fully Bayesian Marked Multidimensional Hawkes Process with Dissimilar Decays*
 
     Kar Wai Lim, Young Lee, Leif Hanlen, Hongbiao Zhao
 
-  * **A Bayesian Nonparametric Approach for Multi-label Classification**
+  * **Best Paper Runner-up:** *A Bayesian Nonparametric Approach for Multi-label Classification*
 
     Vu Nguyen, Sunil Gupta, Santu Rana, Cheng Li, Svetha Venkatesh
 
-  * **Hierarchical Probabilistic Matrix Factorization with Network Topology for Multi-relational Social Network**
+  * **Best Student Paper Runner-up:** *Hierarchical Probabilistic Matrix Factorization with Network Topology for Multi-relational Social Network*
 
     Haoli Bai, Zenglin Xu, Bin Liu, Yingming Li
 

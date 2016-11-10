@@ -429,22 +429,22 @@ Main conference
 
          <ul>
            <li>
-           <strong>Unifying Topic, Sentiment & Preference in an HDP-Based Rating Regression Model for Online Reviews</strong> <br/>
+           <em>Best Paper:</em> <strong>Unifying Topic, Sentiment & Preference in an HDP-Based Rating Regression Model for Online Reviews</strong> <br/>
            Zheng Chen, Yong Zhang , Yue Shang , Xiaohua Hu
            </li>
 
            <li>
-           <strong>Simulation and Calibration of a Fully Bayesian Marked Multidimensional Hawkes Process with Dissimilar Decays</strong> <br/>
+           <em>Best Student Paper:</em> <strong>Simulation and Calibration of a Fully Bayesian Marked Multidimensional Hawkes Process with Dissimilar Decays</strong> <br/>
            Kar Wai Lim, Young Lee, Leif Hanlen, Hongbiao Zhao
            </li>
 
            <li>
-           <strong>A Bayesian Nonparametric Approach for Multi-label Classification</strong> <br/>
+           <em>Best Paper Runner-up:</em> <strong>A Bayesian Nonparametric Approach for Multi-label Classification</strong> <br/>
            Vu Nguyen, Sunil Gupta, Santu Rana, Cheng Li, Svetha Venkatesh
            </li>
 
            <li>
-           <strong>Hierarchical Probabilistic Matrix Factorization with Network Topology for Multi-relational Social Network</strong> <br/>
+           <em>Best Student Paper Runner-up:</em> <strong>Hierarchical Probabilistic Matrix Factorization with Network Topology for Multi-relational Social Network</strong> <br/>
            Haoli Bai, Zenglin Xu, Bin Liu, Yingming Li
            </li>
          </ul>
