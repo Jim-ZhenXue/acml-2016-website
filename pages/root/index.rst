@@ -38,6 +38,20 @@ the `Springer journal Machine Learning <http://www.springer.com/computer/ai/jour
 Announcement
 ------------
 
+* Dear ACML participants,
+
+  As you will no doubt be aware, in the early hours of Monday 14th November there was an earthquake in New Zealand. The epicentre was in the northern part of the South Island some 900km from the University of Waikato.
+
+  There has been no damage anywhere in the Waikato region so, for us, everything is business as usual including the conference. Should that situation change we will notify everyone immediately.
+
+  Auckland airport (the main entry point to get to the University of Waikato) is also unaffected so your travel plans should run smoothly.
+
+  Safe travels and we look forward to hosting you at ACML 2016 here in Hamilton at the University of Waikato,
+
+  Kind Regards,
+
+  Local Organizing Committee ACML 2016 
+
 * Congratulations to our best paper winners, a special session on the second
   day has been reserved for their talks (see `here <conference/program/#friday>`__ for program):
 
