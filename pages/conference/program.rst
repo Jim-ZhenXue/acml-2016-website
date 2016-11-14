@@ -226,7 +226,7 @@ Thursday: Main conference
        <td class="time">10:00&nbsp;am</td>
        <td>
          <strong>Session 1: Multilabel Classification, Text & Topic Mining (1)</strong> <br/>
-         Chaired by: Wray Buntine
+         Chaired by: Steven Hoi
 
          <ul>
            <li>
@@ -347,7 +347,7 @@ Thursday: Main conference
        <td class="time">3:50&nbsp;pm</td>
        <td>
          <strong>Session 4: Multilabel Classification, Text & Topic Mining (2)</strong> <br/>
-         Chaired by: Steven Hoi
+         Chaired by: Wray Buntine
 
          <ul>
            <li>
@@ -425,7 +425,7 @@ Main conference
        <td class="time">10:00&nbsp;am</td>
        <td>
          <strong>Session 5: Best Papers</strong> <br/>
-         Chaired by: Zhi-Hua Zhou
+         Chaired by: Masashi Sugiyama
 
          <ul>
            <li>
