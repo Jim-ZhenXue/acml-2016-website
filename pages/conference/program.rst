@@ -19,8 +19,8 @@
 
 .. _wednesday:
 
-Tutorials and Workshops
-=======================
+Wednesday: Tutorials and Workshops
+==================================
 
 .. raw:: html
 
@@ -392,8 +392,8 @@ Thursday: Main conference
 
 .. _friday:
 
-Main conference
-===============
+Friday: Main conference
+=======================
 
 .. raw:: html
 
