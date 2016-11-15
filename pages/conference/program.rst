@@ -96,7 +96,7 @@ Wednesday: Tutorials and Workshops
 
      <tr>
        <td class="time">12:00&nbsp;pm</td>
-       <td colspan="5">Lunch break - no lunch provided</td>
+       <td colspan="5">Lunch break - Lunch provided</td>
      </tr>
 
      <tr>
