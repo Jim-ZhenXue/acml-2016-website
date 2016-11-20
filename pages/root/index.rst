@@ -38,6 +38,10 @@ the `Springer journal Machine Learning <http://www.springer.com/computer/ai/jour
 Announcement
 ------------
 
+* The conference proceedings are now available online:
+
+  http://jmlr.org/proceedings/papers/v63/
+
 * Dear ACML participants,
 
   As you will no doubt be aware, in the early hours of Monday 14th November there was an earthquake in New Zealand. The epicentre was in the northern part of the South Island some 900km from the University of Waikato.
